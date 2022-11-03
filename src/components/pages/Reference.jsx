@@ -27,7 +27,7 @@ const Reference = () => {
     <>
       <Header />
       <Contents>
-        <Title title={["referece", "referece api"]} />
+        <Title title={["referece api", "referece Book"]} />
         <ReferCont references={references} />
         <Contact />
       </Contents>

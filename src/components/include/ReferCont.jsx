@@ -12,13 +12,15 @@ import React from "react";
 //   );
 // };
 
-const ReferText = ({ num, title, desc }) => {
+const ReferText = ({ num, title, desc, descApply, descStar }) => {
   return (
     <li>
       <a href="/">
-        <span>{num}</span>
-        <span>{title}</span>
-        <span>{desc}</span>
+        <span className="num">{num}</span>
+        <span className="name">{title}</span>
+        <span className="desc">{desc}</span>
+        <span className="descApply">{descApply}</span>
+        <span className="star">{descStar}</span>
       </a>
     </li>
   );
@@ -37,6 +39,8 @@ const ReferCont = ({ references }) => {
                 num={refer.num}
                 title={refer.title}
                 desc={refer.desc}
+                descApply={refer.descApply}
+                descStar={refer.descStar}
               />
             ))}
           </ul>

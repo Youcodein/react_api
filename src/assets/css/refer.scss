@@ -1,8 +1,9 @@
 .refer__inner {
   padding-bottom: 200px;
   h2 {
-    font-size: 30px;
+    font-size: 40px;
     color: var(--white);
+    margin-bottom: 50px;
   }
 }
 
@@ -28,10 +29,17 @@
       }
       .name {
         flex: 1 1 20%;
+        text-align: center;
+        border-right: 1px solid var(--bg-dark-border);
       }
+
       .desc {
         font-family: var(--font-kor2);
-        flex: 1 1 65%;
+        flex: 1 1 45%;
+      }
+      .descApply {
+        font-family: var(--font-kor2);
+        flex: 1 1 15%;
       }
       .star {
         flex: 1 1 10%;
