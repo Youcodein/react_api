@@ -6,7 +6,7 @@
       "title": "align-content",
       "desc": "aling-content 속성은 콘텐츠 아이템의 상하관계 정렬 상태를 설정합니다.",
       "descBasic": "align-content : stretch",
-      "descApple": "모든 속성",
+      "descApply": "모든 속성",
       "descVer": "CSS3",
       "descStar": "★★★☆☆",
       "definition": [
@@ -19,7 +19,7 @@
       "title": "align-items",
       "desc": "align-items 속성은 콘텐츠 아이템의 내부 상하관계 정렬 상태를 설정합니다.",
       "descBasic": "align-items  : stretch",
-      "descApple": "모든 속성",
+      "descApply": "모든 속성",
       "descVer": "CSS3",
       "descStar": "★★★☆☆",
       "definition": [
@@ -32,7 +32,7 @@
       "title": "align-self",
       "desc": "align-self 속성은 콘텐츠 아이템의 내부 상하관계 정렬 상태를 설정합니다.",
       "descBasic": "align-self : auto",
-      "descApple": "모든 속성",
+      "descApply": "모든 속성",
       "descVer": "CSS3",
       "descStar": "★★★☆☆",
       "definition": [
@@ -45,7 +45,7 @@
       "title": "all",
       "desc": "all 속성은 요소의 속성을 초기화 또는 상속을 설정합니다.",
       "descBasic": "all : auto",
-      "descApple": "모든 속성",
+      "descApply": "모든 속성",
       "descVer": "CSS3",
       "descStar": "★★★☆☆",
       "definition": [
@@ -58,7 +58,7 @@
       "title": "animation",
       "desc": "animation 속성은 애니메이션과 관련된 속성을 일괄적으로 설정합니다.",
       "descBasic": "animation : auto",
-      "descApple": "animation",
+      "descApply": "animation",
       "descVer": "CSS3",
       "descStar": "★★★☆☆",
       "definition": [
@@ -70,7 +70,7 @@
       "title": "animation-delay",
       "desc": "animation-delay 속성은 애니메이션 지연 시간을 설정합니다.",
       "descBasic": "animation-delay : auto",
-      "descApple": "animation",
+      "descApply": "animation",
       "descVer": "CSS3",
       "descStar": "★★★☆☆",
       "definition": [
@@ -82,7 +82,7 @@
       "title": "animation-direction",
       "desc": "animation-direction 속성은 애니메이션 움직임 방향을 설정합니다.",
       "descBasic": "animation-direction : auto",
-      "descApple": "animation",
+      "descApply": "animation",
       "descVer": "CSS3",
       "descStar": "★★★☆☆",
       "definition": [
@@ -94,7 +94,7 @@
       "title": "animation-duration",
       "desc": "animation-duration 속성은 애니메이션 움직임 시간을 설정합니다.",
       "descBasic": "animation-duration : 0s;",
-      "descApple": "animation",
+      "descApply": "animation",
       "descVer": "CSS3",
       "descStar": "★★★☆☆",
       "definition": [
@@ -106,7 +106,7 @@
       "title": "animation-name",
       "desc": "animation-name 속성은 애니메이션 keyframe 이름을 설정합니다.",
       "descBasic": "animation-name : none;",
-      "descApple": "animation",
+      "descApply": "animation",
       "descVer": "CSS3",
       "descStar": "★★★☆☆",
       "definition": [
@@ -118,7 +118,7 @@
       "title": "background",
       "desc": "background 속성은 백그라운드 속성을 일괄적으로 설정합니다.",
       "descBasic": "background : none;",
-      "descApple": "background",
+      "descApply": "background",
       "descVer": "CSS3",
       "descStar": "★★★☆☆",
       "definition": [

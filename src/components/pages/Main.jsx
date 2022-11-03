@@ -6,13 +6,13 @@ import Maincont from "../include/Maincont";
 
 const Main = () => {
   return (
-    <div>
+    <>
       <Header />
       <Contents>
         <Maincont />
       </Contents>
       <Footer />
-    </div>
+    </>
   );
 };
 

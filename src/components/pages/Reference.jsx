@@ -4,21 +4,22 @@ import Header from "../layout/Header";
 import Contents from "../layout/Contents";
 import Footer from "../layout/Footer";
 import Title from "../layout/Title";
-import ReferCont from "../include/ReferCont.jsx";
+import ReferCont from "../include/ReferCont";
 import Contact from "../layout/Contact";
 
-//변수: 저장, 추가, 변경 ---> 자동 변경(리액트 훅의 장점)
+//클래스형 컴퍼넌트 / 함수형 컴퍼넌트 (함수형이 더 쉽기 때문에 사용을 추천) --> 클래스향의 장점을 가져온 리액트 훅(함수형 컴퍼넌트 사용 가능)이 생김. 기본적으로 사용할 줄 알아야한다.(김치격임.)
+//클래스형 컴퍼넌트 / 함수형 컴퍼넌트 --> 리액트 훅
+//변수 : 저장, 추가, 변경 --> 리액트 훅에서 자동으로 변경해준다.
 
-//클래스 컴퍼넌트 / 함수형 컴퍼넌트 --> 리액트 훅(면접질문)
-
+//리액트 훅 기능
 const Reference = () => {
-  const [references, setReferences] = useState([]);
+  const [references, setReference] = useState([]);
 
   useEffect(() => {
-    fetch("https://webstoryboy.github.io/react2022/src/assets/json/refer.json")
+    fetch("https://youcodein.github.io/react_api/src/utils/reference.json")
       .then((response) => response.json())
-      // .then((result) => console.log(result.data.htmlRefer))
-      .then((result) => setReferences(result.data.htmlRefer))
+      // .then(result => console.log(result.data.cssRefer))
+      .then((result) => setReference(result.cssRefer))
       .catch((error) => console.log("error", error));
   }, []);
 
@@ -26,7 +27,7 @@ const Reference = () => {
     <>
       <Header />
       <Contents>
-        <Title title={["Reference", "reference API"]} />
+        <Title title={["referece", "referece api"]} />
         <ReferCont references={references} />
         <Contact />
       </Contents>
