@@ -28,7 +28,7 @@
       "descBasic": "align-items  : stretch",
       "descApply": "flexbox",
       "descVer": "CSS3",
-      "descStar": "밑줄과 파란색으로 표시",
+      "descStar": "★★★★☆",
       "definition": [
         "align-items 속성은 콘텐츠 아이템의 내부 상하관계 정렬 상태를 설정합니다.",
         "align-content 속성은 컨테이너의 높이 값을 기준으로 정렬하고 align-items 속성은 아이템의 높이 값을 기준으로 정렬합니다."
