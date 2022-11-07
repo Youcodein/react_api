@@ -8,7 +8,7 @@
       "values": ["auto", "<color>"],
       "initial": "auto",
       "syntax": "accent-color: hsl(228, 4%, 24%)",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -36,7 +36,7 @@
       ],
       "initial": "normal",
       "syntax": "align-content: first baseline",
-      "descApple": "multi-line flex containers",
+      "descApply": "multi-line flex containers",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -64,7 +64,7 @@
       ],
       "initial": "normal",
       "syntax": "align-items: first baseline",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": [
@@ -91,7 +91,7 @@
       ],
       "initial": "auto",
       "syntax": "align-self: safe center",
-      "descApple": "flex items, grid items, and absolutely-positioned boxes",
+      "descApply": "flex items, grid items, and absolutely-positioned boxes",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -107,7 +107,7 @@
       "values": ["initial", "inherit", "unset", "revert"],
       "initial": "There is no practical initial value for it.",
       "syntax": "all: initial | inherit | unset | revert",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -128,7 +128,7 @@
       ],
       "initial": "as each of the properties of the shorthand",
       "syntax": "animation: <single-animation>",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": ["애니메이션과 관련된 속성을 일괄적으로 설정합니다."]
@@ -140,7 +140,7 @@
       "values": ["<time>"],
       "initial": "0s",
       "syntax": "animation-delay: 2.1s, 480ms",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": ["애니메이션 지연 시간을 설정합니다."]
@@ -152,7 +152,7 @@
       "values": ["normal", "reverse", "alternate", "alternate-reverse"],
       "initial": "normal",
       "syntax": "animation-direction: alternate, reverse, normal",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": ["애니메이션 움직임 방향을 설정합니다."]
@@ -164,7 +164,7 @@
       "values": ["<time>"],
       "initial": "0s",
       "syntax": "animation-duration: 10s, 35s, 230ms",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": ["애니메이션 움직임 시간을 설정합니다."]
@@ -176,7 +176,7 @@
       "values": ["none", "forwards", "backwards", "both"],
       "initial": "none",
       "syntax": "animation-fill-mode: both, forwards, none",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["애니메이션이 끝난 후의 상태를 설정합니다."]
@@ -188,7 +188,7 @@
       "values": ["infinite", "<number>"],
       "initial": "1",
       "syntax": "animation-iteration-count: 2, 0, infinite",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["애니메이션의 반복 횟수를 설정합니다."]
@@ -200,7 +200,7 @@
       "values": ["none", "<custom-ident>"],
       "initial": "none",
       "syntax": "animation-name: none, -moz-specific, sliding",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -215,7 +215,7 @@
       "values": ["running", "paused"],
       "initial": "running",
       "syntax": "animation-play-state: paused, running, running",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": ["애니메이션 진행상태를 설정합니다."]
@@ -227,7 +227,7 @@
       "values": ["auto", "none", "<timeline-name>"],
       "initial": "auto",
       "syntax": "animation-timeline: none, -moz-specific, sliding",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -252,7 +252,7 @@
       ],
       "initial": "ease",
       "syntax": "animation-timing-function: ease, step-start, cubic-bezier(0.1, 0.7, 1, 0.1)",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -266,7 +266,7 @@
       "values": ["none", "auto", "menulist-button", "textfield"],
       "initial": "none",
       "syntax": "appearance: none | auto | menulist-button | textfield",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -280,7 +280,7 @@
       "values": ["auto", "<ratio>"],
       "initial": "auto",
       "syntax": "aspect-ratio: 1 / 1",
-      "descApple": "all elements except inline boxes and internal ruby or table boxes",
+      "descApply": "all elements except inline boxes and internal ruby or table boxes",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -294,7 +294,7 @@
       "values": ["auto", "<ratio>"],
       "initial": "auto",
       "syntax": "backdrop-filter: url(filters.svg#filter) blur(4px) saturate(150%)",
-      "descApple": "all elements except inline boxes and internal ruby or table boxes",
+      "descApply": "all elements except inline boxes and internal ruby or table boxes",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -309,7 +309,7 @@
       "values": ["visible", "hidden"],
       "initial": "visible",
       "syntax": "backface-visibility: visible | hidden",
-      "descApple": "transformable elements",
+      "descApply": "transformable elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -331,7 +331,7 @@
       ],
       "initial": "as each of the properties of the shorthand",
       "syntax": "backface: green | url('test.jpg') repeat-y | border-box red | no-repeat center/80% url('../img/image.png')",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": ["백그라운드 속성을 일괄적으로 설정합니다."]
@@ -343,7 +343,7 @@
       "values": ["fixed", "local", "scroll"],
       "initial": "scroll",
       "syntax": "background-attachment: fixed | local | scroll",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["백그라운드 속성을 일괄적으로 설정합니다."]
@@ -355,7 +355,7 @@
       "values": ["<blend-mode>"],
       "initial": "normal",
       "syntax": "background-blend-mode: <mix-blend-mode>",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["배경을 혼합했을 때 그래픽 효과를 설정합니다."]
@@ -367,7 +367,7 @@
       "values": ["border-box", "padding-box", "content-box", "text"],
       "initial": "border-box",
       "syntax": "background-clip: inherit | initial | revert | revert-layer | unset",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["백그라운드 이미지의 위치 기준점을 설정합니다."]
@@ -379,7 +379,7 @@
       "values": ["<color>"],
       "initial": "transparent",
       "syntax": "background-color: <color>",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": ["백그라운드 색을 설정합니다."]
@@ -391,7 +391,7 @@
       "values": ["<color>"],
       "initial": "transparent",
       "syntax": "background-image: linear-gradient(to bottom, rgba(255, 255, 0, 0.5), rgba(0, 0, 255, 0.5)), url('catfront.png');",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": ["백그라운드 이미지 속성을 설정합니다."]
@@ -403,7 +403,7 @@
       "values": ["border-box", "padding-box", "content-box"],
       "initial": "padding-box",
       "syntax": "background-origin: border-box | padding-box | content-box",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -417,7 +417,7 @@
       "values": ["<position>"],
       "initial": "0% 0%",
       "syntax": "background-position: [ center | [ left | right ] <length-percentage>? ] && [ center | [ top | bottom ] <length-percentage>? ]",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ☆",
       "definition": ["백그라운드 이미지의 위치 영역을 설정합니다."]
@@ -429,7 +429,7 @@
       "values": ["left", "center", "right", "<length>", "<percentage>"],
       "initial": "0%",
       "syntax": "background-position-x: [ center | [ [ left | right | x-start | x-end ]? <length-percentage>? ]! ]",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["백그라운드 이미지의 x축 위치 영역을 설정합니다."]
@@ -441,7 +441,7 @@
       "values": ["top", "center", "bottom", "<length>", "<percentage>"],
       "initial": "0%",
       "syntax": "background-position-y: [ center | [ [ top | bottom | y-start | y-end ]? <length-percentage>? ]! ]",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["백그라운드 이미지의 y축 위치 영역을 설정합니다."]
@@ -453,7 +453,7 @@
       "values": ["<repeat-style>"],
       "initial": "repeat",
       "syntax": "background-repeat: [ repeat | space | round | no-repeat ]{1,2}",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ☆",
       "definition": ["백그라운드 이미지 반복 여부를 설정합니다."]
@@ -465,7 +465,7 @@
       "values": ["contain", "cover", "auto", "<length>", "<percentage>"],
       "initial": "auto auto",
       "syntax": "background-size: [ <length-percentage [0,∞]> | auto ]{1,2}",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ☆",
       "definition": ["백그라운드 이미지 사이즈를 설정합니다."]
@@ -477,7 +477,7 @@
       "values": ["contain", "cover", "auto", "<length>", "<percentage>"],
       "initial": "auto",
       "syntax": "block-size: fit-content(20em)",
-      "descApple": "same as width and height",
+      "descApply": "same as width and height",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -491,7 +491,7 @@
       "values": ["<line-width>", "<line-style>", "<color>"],
       "initial": "none",
       "syntax": "border: medium dashed green",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": ["테두리 속성을 일괄적으로 설정합니다."]
@@ -503,7 +503,7 @@
       "values": ["<'border-width'>", "<'border-style'>", "<'color'>"],
       "initial": "width: medium | style: none | color: currentcolor",
       "syntax": "border-block: <'border-block-start'>",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["각각의 논리 블록 border 속성 값을 설정합니다."]
@@ -515,7 +515,7 @@
       "values": ["<'color'>"],
       "initial": "currentcolor",
       "syntax": "border-block-color: #f5f6f7",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["보더 블록의 색상을 설정합니다."]
@@ -527,7 +527,7 @@
       "values": ["<'border-width'>", "<'border-style'>", "<'color'>"],
       "initial": "width: medium | style: none | color: currentcolor",
       "syntax": "border-block-end: medium dashed blue",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["보더 블록의 끝을 일괄 설정합니다."]
@@ -539,7 +539,7 @@
       "values": ["<'color'>"],
       "initial": "currentcolor",
       "syntax": "border-block-end-color: yellow",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["보더 블록의 끝 색상을 설정합니다."]
@@ -551,7 +551,7 @@
       "values": ["<'color'>"],
       "initial": "none",
       "syntax": "border-block-end-style: dashed | dotted | groove",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["보더 블록의 끝 스타일을 설정합니다."]
@@ -563,7 +563,7 @@
       "values": ["<'border-top-width'>"],
       "initial": "medium",
       "syntax": "border-block-end-width: thick | 5px",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["보더 블록의 끝 두께를 설정합니다."]
@@ -575,7 +575,7 @@
       "values": ["<'border-width'>", "<'border-style'>", "<'color'>"],
       "initial": "medium | none | canvastext",
       "syntax": "border-block-start: 2px dotted",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["보더 블록의 시작을 일괄 설정합니다."]
@@ -587,7 +587,7 @@
       "values": ["<'color'>"],
       "initial": "currentcolor",
       "syntax": "border-block-start-color: #4c5d21",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["보더 블록의 시작 색상을 설정합니다."]
@@ -599,7 +599,7 @@
       "values": ["<'border-style'>"],
       "initial": "none",
       "syntax": "border-block-start-style: groove",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["보더 블록의 시작 스타일을 설정합니다."]
@@ -611,7 +611,7 @@
       "values": ["<'border-width'>"],
       "initial": "medium",
       "syntax": "border-block-start-width: 5px",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["보더 블록의 시작 스타일을 설정합니다."]
@@ -623,7 +623,7 @@
       "values": ["<'border-style'>"],
       "initial": "none",
       "syntax": "border-block-style: dashed",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["보더 블록의 스타일을 설정합니다."]
@@ -635,7 +635,7 @@
       "values": ["<'border-width'>"],
       "initial": "medium",
       "syntax": "border-block-width: 5px",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["보더 블록의 스타일을 설정합니다."]
@@ -647,7 +647,7 @@
       "values": ["<br-width>", "<br-style>", "<color>"],
       "initial": "width: medium, style : none, color : currentcolor",
       "syntax": "border-bottom: none thick green",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["테두리 하단 속성을 일괄적으로 설정합니다."]
@@ -659,7 +659,7 @@
       "values": ["<color>"],
       "initial": "medium",
       "syntax": "border-bottom-color: rgb(255, 0, 0)",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["테두리 아래쪽 색 속성을 설정합니다."]
@@ -671,7 +671,7 @@
       "values": ["<length-percentage>"],
       "initial": "0",
       "syntax": "border-bottom-left-radius: 0.5em 1em",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["테두리 하단 좌측 모서리 굴곡 설정합니다."]
@@ -683,7 +683,7 @@
       "values": ["<length-percentage>"],
       "initial": "0",
       "syntax": "border-bottom-right-radius: 20% 10%",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["테두리 하단 우측 모서리 굴곡 설정합니다."]
@@ -695,7 +695,7 @@
       "values": ["<length-percentage>"],
       "initial": "none",
       "syntax": "border-bottom-style: none | hidden | dotted | dashed | solid | double | groove | ridge | inset | outset",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["테두리 아래쪽 스타일 속성을 설정합니다."]
@@ -707,7 +707,7 @@
       "values": ["<length-percentage>"],
       "initial": "medium",
       "syntax": "border-bottom-width: <length [0,∞]> | thin | medium | thick",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["아래쪽 테두리 너비를 설정합니다."]
@@ -719,7 +719,7 @@
       "values": ["collapse", "separate"],
       "initial": "separate",
       "syntax": "border-collapse: separate | collapse",
-      "descApple": "table and inline-table elements",
+      "descApply": "table and inline-table elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": ["테두리가 분리될지 또는 상쇄될지를 결정합니다."]
@@ -731,7 +731,7 @@
       "values": ["<color>"],
       "initial": "currentcolor",
       "syntax": "border-color: <color>{1,4}",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": ["모든 면의 테두리 색상을 설정합니다."]
@@ -743,7 +743,7 @@
       "values": ["<length-percentage>"],
       "initial": "0",
       "syntax": "border-end-end-radius: 10px",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": ["보더 끝의 끝부분을 둥글게 설정합니다."]
@@ -755,7 +755,7 @@
       "values": ["<length-percentage>"],
       "initial": "0",
       "syntax": "border-end-start-radius: 10px",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": ["보더 끝의 시작 부분을 둥글게 설정합니다."]
@@ -773,7 +773,7 @@
       ],
       "initial": "border-image-source: none, border-image-slice: 100%, border-image-width: 1, border-image-outset: 0, border-image-repeat: stretch",
       "syntax": "border-image: linear-gradient(red, blue) 27;",
-      "descApple": "all elements, except internal table elements when border-collapse is collapse. It also applies to ::first-letter.",
+      "descApply": "all elements, except internal table elements when border-collapse is collapse. It also applies to ::first-letter.",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -788,7 +788,7 @@
       "values": ["<length>", "<number>"],
       "initial": "0",
       "syntax": "border-image-outset: 1rem;",
-      "descApple": "all elements, except internal table elements when border-collapse is collapse. It also applies to ::first-letter (en-US).",
+      "descApply": "all elements, except internal table elements when border-collapse is collapse. It also applies to ::first-letter (en-US).",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -803,7 +803,7 @@
       "values": ["stretch", "repeat", "round", "space"],
       "initial": "stretch",
       "syntax": "border-image-repeat: stretch;",
-      "descApple": "all elements, except internal table elements when border-collapse is collapse. It also applies to ::first-letter (en-US).",
+      "descApply": "all elements, except internal table elements when border-collapse is collapse. It also applies to ::first-letter (en-US).",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -818,7 +818,7 @@
       "values": ["<number>", "<percentage>", "fill"],
       "initial": "100%",
       "syntax": "border-image-slice: 100%;",
-      "descApple": "all elements, except internal table elements when border-collapse is collapse. It also applies to ::first-letter (en-US).",
+      "descApply": "all elements, except internal table elements when border-collapse is collapse. It also applies to ::first-letter (en-US).",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -833,7 +833,7 @@
       "values": ["none", "<image>"],
       "initial": "none",
       "syntax": "border-image-source: none;",
-      "descApple": "all elements, except internal table elements when border-collapse is collapse. It also applies to ::first-letter (en-US).",
+      "descApply": "all elements, except internal table elements when border-collapse is collapse. It also applies to ::first-letter (en-US).",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -848,7 +848,7 @@
       "values": ["<length-percentage>", "<number>", "auto"],
       "initial": "1",
       "syntax": "border-image-width: auto;",
-      "descApple": "all elements, except internal table elements when border-collapse is collapse. It also applies to ::first-letter (en-US).",
+      "descApply": "all elements, except internal table elements when border-collapse is collapse. It also applies to ::first-letter (en-US).",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -864,7 +864,7 @@
       "values": ["<'border-width'>", "<'border-style'>", "<'color'>"],
       "initial": "border-top-width: medium, border-top-style: none, border-top-color: currentcolor",
       "syntax": "border-inline: medium dashed blue;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -878,7 +878,7 @@
       "values": ["<'color'>"],
       "initial": "currentcolor",
       "syntax": "border-inline-color: currentcolor",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -892,7 +892,7 @@
       "values": ["<'border-width'>", "<'border-style'>", "<'color'>"],
       "initial": "border-width, border-style: as each of the properties of the shorthand, color: canvastext",
       "syntax": "border-inline-end: medium dashed blue;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -906,7 +906,7 @@
       "values": ["<'color'>"],
       "initial": "currentcolor",
       "syntax": "border-inline-end-color: currentcolor;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -920,7 +920,7 @@
       "values": ["<'border-style'>"],
       "initial": "none",
       "syntax": "border-inline-end-style: none",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -934,7 +934,7 @@
       "values": ["<'border-width'>"],
       "initial": "medium",
       "syntax": "border-inline-end-width: medium",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -948,7 +948,7 @@
       "values": ["<'border-width'>", "<'border-style'>", "<'color'>"],
       "initial": "border-width, border-style: as each of the properties of the shorthand, color: canvastext",
       "syntax": "border-inline-start: medium dashed green",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -962,7 +962,7 @@
       "values": ["<'color'>"],
       "initial": "currentcolor",
       "syntax": "border-inline-start-color: currentcolor",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -976,7 +976,7 @@
       "values": ["<'border-style'>"],
       "initial": "none",
       "syntax": "border-inline-start-style: none",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -990,7 +990,7 @@
       "values": ["<'border-width'>"],
       "initial": "medium",
       "syntax": "border-inline-start-width: medium",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -1004,7 +1004,7 @@
       "values": ["<'border-style'>"],
       "initial": "none",
       "syntax": "border-inline-style: none",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -1018,7 +1018,7 @@
       "values": ["<'border-width'>"],
       "initial": "medium",
       "syntax": "border-inline-width: medium",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -1032,7 +1032,7 @@
       "values": ["<br-width>", "<br-style>", "<color>"],
       "initial": "border-left-width: medium, border-left-style: none, border-left-color: currentcolor",
       "syntax": "border-left: 4px dashed blue;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ☆",
       "definition": [
@@ -1048,7 +1048,7 @@
       "values": ["<color>"],
       "initial": "currentcolor",
       "syntax": "border-left-color: currentcolor",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -1063,7 +1063,7 @@
       "values": ["<line-style>"],
       "initial": "none",
       "syntax": "border-left-style: none",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -1078,7 +1078,7 @@
       "values": ["<line-width>"],
       "initial": "medium",
       "syntax": "border-left-width: medium",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["요소의 왼쪽 테두리 너비를 지정합니다."]
@@ -1090,7 +1090,7 @@
       "values": ["<length>", "<percentage>"],
       "initial": "0",
       "syntax": "border-radius: 0",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": [
@@ -1105,7 +1105,7 @@
       "values": ["<br-width>", "<br-style>", "<color>"],
       "initial": "border-right-width: medium, border-right-style: none, border-right-color: currentcolor",
       "syntax": "border-right: 4px dashed blue",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ☆",
       "definition": [
@@ -1120,7 +1120,7 @@
       "values": ["<color>"],
       "initial": "currentcolor",
       "syntax": "border-right-color: currentcolor",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -1135,7 +1135,7 @@
       "values": ["<line-style>"],
       "initial": "none",
       "syntax": "border-right-style: none",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -1150,7 +1150,7 @@
       "values": ["<line-width>"],
       "initial": "medium",
       "syntax": "border-right-width: medium",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["요소의 오른쪽 테두리 너비를 지정합니다."]
@@ -1162,7 +1162,7 @@
       "values": ["<length>"],
       "initial": "0",
       "syntax": "border-spacing: 0",
-      "descApple": "table and inline-table elements",
+      "descApply": "table and inline-table elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -1177,7 +1177,7 @@
       "values": ["<length-percentage>"],
       "initial": "0",
       "syntax": "border-start-end-radius: 0",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -1192,7 +1192,7 @@
       "values": ["<length-percentage>"],
       "initial": "0",
       "syntax": "border-start-start-radius: 0",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -1207,7 +1207,7 @@
       "values": ["<line-style>"],
       "initial": "none",
       "syntax": "border-style: none",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -1222,7 +1222,7 @@
       "values": ["<br-width>", "<br-style>", "<color>"],
       "initial": "border-top-width: medium, border-top-style: none, border-top-color: currentcolor",
       "syntax": "border-top: 4px dashed blue",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ☆",
       "definition": [
@@ -1237,7 +1237,7 @@
       "values": ["<color>"],
       "initial": "currentcolor",
       "syntax": "border-top-color: currentcolor",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -1252,7 +1252,7 @@
       "values": ["<length-percentage>"],
       "initial": "0",
       "syntax": "border-top-left-radius: 0",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -1266,7 +1266,7 @@
       "values": ["<length-percentage>"],
       "initial": "0",
       "syntax": "border-top-right-radius: 0",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -1280,7 +1280,7 @@
       "values": ["<line-style>"],
       "initial": "none",
       "syntax": "border-top-style: none",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -1295,7 +1295,7 @@
       "values": ["<line-width>"],
       "initial": "medium",
       "syntax": "border-top-width: medium",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["요소의 위쪽 테두리 너비를 지정합니다."]
@@ -1307,7 +1307,7 @@
       "values": ["<line-width>"],
       "initial": "medium",
       "syntax": "border-width: medium",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -1322,7 +1322,7 @@
       "values": ["<length>", "<percentage>", "auto", "inherit"],
       "initial": "auto",
       "syntax": "bottom: auto",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": [
@@ -1337,7 +1337,7 @@
       "values": ["slice", "clone"],
       "initial": "slice",
       "syntax": "box-decoration-break: slice",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -1357,7 +1357,7 @@
       ],
       "initial": "none",
       "syntax": "box-shadow: none",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ☆",
       "definition": [
@@ -1373,7 +1373,7 @@
       "values": ["content-box", "border-box"],
       "initial": "content-box",
       "syntax": "box-sizing: content-box",
-      "descApple": "all elements that accept width or height",
+      "descApply": "all elements that accept width or height",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": ["요소의 너비와 높이를 계산하는 방법을 지정합니다."]
@@ -1394,7 +1394,7 @@
       ],
       "initial": "auto",
       "syntax": "break-after: auto",
-      "descApple": "block-level elements",
+      "descApply": "block-level elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -1418,7 +1418,7 @@
       ],
       "initial": "auto",
       "syntax": "break-before: auto",
-      "descApple": "block-level elements",
+      "descApply": "block-level elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -1433,7 +1433,7 @@
       "values": ["auto", "avoid", "avoid-page", "avoid-column"],
       "initial": "auto",
       "syntax": "break-inside: auto",
-      "descApple": "block-level elements",
+      "descApply": "block-level elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -1455,7 +1455,7 @@
       ],
       "initial": "top",
       "syntax": "caption-side: top",
-      "descApple": "table-caption elements",
+      "descApply": "table-caption elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -1470,7 +1470,7 @@
       "values": ["auto", "<color>"],
       "initial": "auto",
       "syntax": "caret-color: auto",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["텍스트 입력 커서(삽입 캐럿)의 색상을 설정합니다."]
@@ -1482,7 +1482,7 @@
       "values": ["none", "left", "right", "both", "inline-start", "inline-end"],
       "initial": "none",
       "syntax": "clear: none",
-      "descApple": "all the block-level elements",
+      "descApply": "all the block-level elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -1497,7 +1497,7 @@
       "values": ["<shape()>", "auto"],
       "initial": "auto",
       "syntax": "clip: auto",
-      "descApple": "absolutely positioned elements",
+      "descApply": "absolutely positioned elements",
       "descVer": "CSS3",
       "descStar": "☆☆☆☆☆",
       "definition": [
@@ -1524,7 +1524,7 @@
       ],
       "initial": "none",
       "syntax": "clip-path: none",
-      "descApple": "absolutely positioned elements",
+      "descApply": "absolutely positioned elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -1538,7 +1538,7 @@
       "values": ["<color>"],
       "initial": "canvastext",
       "syntax": "color: canvastext",
-      "descApple": "all elements and text. It also applies to ::first-letter (en-US) and ::first-line (en-US).",
+      "descApply": "all elements and text. It also applies to ::first-letter (en-US) and ::first-line (en-US).",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": [
@@ -1553,7 +1553,7 @@
       "values": ["normal", "light", "dark", "only"],
       "initial": "normal",
       "syntax": "color-scheme: normal",
-      "descApple": "all elements and text",
+      "descApply": "all elements and text",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -1567,7 +1567,7 @@
       "values": ["auto", "<integer>"],
       "initial": "auto",
       "syntax": "column-count: auto",
-      "descApple": "Block containers except table wrapper boxes",
+      "descApply": "Block containers except table wrapper boxes",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["요소의 내용을 지정된 수의 열로 나눕니다."]
@@ -1579,7 +1579,7 @@
       "values": ["auto", "balance"],
       "initial": "balance",
       "syntax": "column-fill: balance",
-      "descApple": "multicol elements",
+      "descApply": "multicol elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -1593,7 +1593,7 @@
       "values": ["normal", "<length>", "<percentage>"],
       "initial": "normal",
       "syntax": "column-gap (grid-column-gap): normal",
-      "descApple": "multi-column elements, flex containers, grid containers",
+      "descApply": "multi-column elements, flex containers, grid containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["요소의 열 사이 의 간격(거터) 크기를 설정합니다."]
@@ -1609,7 +1609,7 @@
       ],
       "initial": "column-rule-width : medium; column-rule-style : none; column-rule-color : color;",
       "syntax": "column-rule : column-rule-width | column-rule-style | column-rule-color",
-      "descApple": "multicol elements",
+      "descApply": "multicol elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["컬럼 라인의 가로값, 스타일, 컬러를 정의합니다."]
@@ -1621,7 +1621,7 @@
       "values": ["<color>"],
       "initial": "column-rule-color : correntColor;",
       "syntax": "column-rule-color : color",
-      "descApple": "multicol elements",
+      "descApply": "multicol elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["column-rule-color 속성은 컬럼의 라인 색을 정의합니다."]
@@ -1633,7 +1633,7 @@
       "values": ["<'border-style'>"],
       "initial": "column-rule-style : none;",
       "syntax": "column-rule-style : none | hidden | dotted | dashed | solid | double | groove | ridge | inset | outset",
-      "descApple": "multicol elements",
+      "descApply": "multicol elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -1647,7 +1647,7 @@
       "values": ["<'border-width'>"],
       "initial": "column-rule-width : medium;",
       "syntax": "column-rule-width : medium | thin | thick | length",
-      "descApple": "multicol elements",
+      "descApply": "multicol elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -1661,7 +1661,7 @@
       "values": ["none", "all"],
       "initial": "column-span : none;",
       "syntax": "column-span : none | all",
-      "descApple": "in-flow block-level elements",
+      "descApply": "in-flow block-level elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["column-span 속성은 열의 속성을 정의합니다."]
@@ -1673,7 +1673,7 @@
       "values": ["<length>", "auto"],
       "initial": "column-width : auto;",
       "syntax": "column-width : auto | length",
-      "descApple": "Block containers except table wrapper boxes",
+      "descApply": "Block containers except table wrapper boxes",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": ["column-width 속성은 컬럼의 가로 값을 정의합니다."]
@@ -1685,7 +1685,7 @@
       "values": ["<'column-width'>", "<'column-count'>"],
       "initial": "column-width : auto; column-count : auto;",
       "syntax": "columns : auto | column-width | column-count",
-      "descApple": "Block containers except table wrapper boxes",
+      "descApply": "Block containers except table wrapper boxes",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -1709,7 +1709,7 @@
       ],
       "initial": "contain: none; contain: size paint; contain: inherit;",
       "syntax": "contain: none;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -1731,7 +1731,7 @@
       ],
       "initial": "content : normal;",
       "syntax": "content : normal | none | counter | attr | string | open-quote | close-quote | no-open-quote | no-close-quote | url",
-      "descApple": "All elements, tree-abiding pseudo-elements, and page margin boxes",
+      "descApply": "All elements, tree-abiding pseudo-elements, and page margin boxes",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["content 속성은 콘텐츠 내용을 설정합니다."]
@@ -1743,7 +1743,7 @@
       "values": ["visible", "hidden", "auto"],
       "initial": "content-visibility : visible | inherit | initial;",
       "syntax": "content-visibility: visible;",
-      "descApple": "elementsForWhichLayoutContainmentCanApply",
+      "descApply": "elementsForWhichLayoutContainmentCanApply",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["요소가 콘텐츠를 렌더링하는지 여부를 제어합니다."]
@@ -1755,7 +1755,7 @@
       "values": ["<custom-ident>", "<integer>", "none"],
       "initial": "counter-increment: none;",
       "syntax": "counter-increment : my-counter; | my-counter -1; | counter1 counter2 -4; | none | inherit | initial | revert | revert-layer | unset;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["콘텐츠의 순서 상태를 정의합니다."]
@@ -1767,7 +1767,7 @@
       "values": ["<custom-ident>", "<integer>", "none"],
       "initial": "counter-set: none;",
       "syntax": "counter-reset : none | name | number;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["counter-reset 속성은 콘텐츠의 숫자를 초기화합니다."]
@@ -1779,7 +1779,7 @@
       "values": ["<custom-ident>", "<integer>", "none"],
       "initial": "counter-set: none;",
       "syntax": "counter-set : none | name | number;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["CSS 카운터(콘텐츠 모양 조정)를 주어진 값으로 설정합니다."]
@@ -1791,7 +1791,7 @@
       "values": ["<url>", "<x><y>", "keyword"],
       "initial": "cursor : auto;",
       "syntax": "cursor : alias | all-scroll | auto | cell | context-menu | col-resize | copy | crosshair | default | e-resize | ew-resize | grab | grabbing | help | move | n-resize | ne-resize | nesw-resize | ns-resize | nw-resize | nwse-resize | no-drop | none | not-allowed | pointer | progress | row-resize | s-resize | se-resize | sw-resize | text | URL | vertical-text | w-resize | wait | zoom-in | zoom-out",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ☆",
       "definition": ["cursor 속성은 마우스 오버시 마우스 포인터를 정의합니다."]
@@ -1803,7 +1803,7 @@
       "values": ["ltr", "rtl"],
       "initial": "direction : ltr",
       "syntax": "direction : ltr | rtl",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": ["direction 속성은 문장의 방향을 설정합니다."]
@@ -1823,7 +1823,7 @@
       ],
       "initial": "display : inline",
       "syntax": "display : inline | block | flex | inline-block | inline-flex | inline-table | list-item | run-in | table | table-caption | table-column-group | table-header-group | table-footer-group | table-row-group | table-cell | table-column | table-row | none",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS1",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": ["display 속성은 요소의 성질을 정의합니다."]
@@ -1835,7 +1835,7 @@
       "values": ["show", "hide"],
       "initial": "empty-cells : show",
       "syntax": "empty-cells : show | hide",
-      "descApple": "table-cell elements",
+      "descApply": "table-cell elements",
       "descVer": "CSS2",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": ["empty-cells 속성은 테이블의 빈요소의 속성을 설정합니다."]
@@ -1861,7 +1861,7 @@
       ],
       "initial": "filter : none",
       "syntax": "filter : none | blur() | brightness() | contrast() | drop-shadow() | grayscale() | hue-rotate() | invert() | opacity() | saturate() | sepia() | url()",
-      "descApple": "all elements; In SVG, it applies to container elements excluding the defs element and all graphics elements",
+      "descApply": "all elements; In SVG, it applies to container elements excluding the defs element and all graphics elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ☆",
       "definition": [
@@ -1883,7 +1883,7 @@
       ],
       "initial": "flex-grow : 0 | flex-shrink : 1 | flex-basis : auto",
       "syntax": "flex : flex-grow | flex-shrink | flex-basis | auto",
-      "descApple": "flex items, including in-flow pseudo-elements",
+      "descApply": "flex items, including in-flow pseudo-elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": ["flex 속성은 콘텐츠의 성질을 flex로 정의합니다."]
@@ -1895,7 +1895,7 @@
       "values": ["number", "auto"],
       "initial": "flex-basis : auto",
       "syntax": "flex-basis : number | auto",
-      "descApple": "flex items, including in-flow pseudo-elements",
+      "descApply": "flex items, including in-flow pseudo-elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": ["flex-basis 속성은 요소의 기본 단위를 정의합니다."]
@@ -1907,7 +1907,7 @@
       "values": ["row", "row-reverse", "column", "column-reverse"],
       "initial": "flex-direction : row",
       "syntax": "flex-direction : row | row-reverse | column | column-reverse",
-      "descApple": "flex items, including in-flow pseudo-elements",
+      "descApply": "flex items, including in-flow pseudo-elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ☆",
       "definition": ["flex-direction 속성은 요소의 정렬 방향을 정의합니다."]
@@ -1919,7 +1919,7 @@
       "values": ["row", "row-reverse", "column", "column-reverse"],
       "initial": "flex-direction : row | flex-wrap : nowrap",
       "syntax": "flex-flow : flex-direction | flex-wrap",
-      "descApple": "flex items, including in-flow pseudo-elements",
+      "descApply": "flex items, including in-flow pseudo-elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -1933,7 +1933,7 @@
       "values": ["<number>"],
       "initial": "flex-grow : 0",
       "syntax": "flex-grow : number",
-      "descApple": "flex items, including in-flow pseudo-elements",
+      "descApply": "flex items, including in-flow pseudo-elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": ["flex-grow 속성은 요소의 크기를 숫자를 통해 정의합니다."]
@@ -1945,7 +1945,7 @@
       "values": ["<number>"],
       "initial": "flex-shrink : 1",
       "syntax": "flex-shrink : number",
-      "descApple": "flex items, including in-flow pseudo-elements",
+      "descApply": "flex items, including in-flow pseudo-elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -1960,7 +1960,7 @@
       "values": ["nowrap", "wrap", "wrap-reverse"],
       "initial": "flex-wrap : nowrap",
       "syntax": "flex-wrap : nowrap | wrap | wrap-reverse",
-      "descApple": "flex containers",
+      "descApply": "flex containers",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ☆",
       "definition": [
@@ -1975,7 +1975,7 @@
       "values": ["none", "left", "right"],
       "initial": "float : none",
       "syntax": "float : none | left | right",
-      "descApple": "all elements, but has no effect if the value of display is none.",
+      "descApply": "all elements, but has no effect if the value of display is none.",
       "descVer": "CSS1",
       "descStar": "★ ★ ★ ★ ☆",
       "definition": ["float 속성은 블록요소의 정렬 상태를 설정합니다."]
@@ -1995,7 +1995,7 @@
       ],
       "initial": "font-style : normal | font-variant : normal | font-weight : normal | font-size : medium | line-height : normal | font-family : 사용자 설정에 따름",
       "syntax": "font : font-style / font-variant / font-weight / font-stretch / font-size / line-height / font-family | caption | icon | menu | message-box | small-caption | status-bar",
-      "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS1",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": [
@@ -2019,7 +2019,7 @@
       ],
       "initial": "font-style : normal | font-variant : normal | font-weight : normal | font-size : medium | line-height : normal | font-family : 사용자 설정에 따름",
       "syntax": "font-family : font",
-      "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS1",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": [
@@ -2036,7 +2036,7 @@
       "values": ["normal", "<feature-tag-value>"],
       "initial": "font-feature-settings : normal",
       "syntax": "font-feature-settings: normal; | font-feature-settings: 'smcp', 'swsh' 2;",
-      "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": ["오픈타입 폰트의 다양한 오픈타입 피처를 설정합니다."]
@@ -2048,7 +2048,7 @@
       "values": ["auto", "normal", "none"],
       "initial": "font-kerning : auto",
       "syntax": "font-kerning: auto;",
-      "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": ["글꼴에 저장된 커닝 정보의 사용을 설정합니다."]
@@ -2060,7 +2060,7 @@
       "values": ["normal", "<string>"],
       "initial": "font-language-override: normal;",
       "syntax": "font-language-override: normal;",
-      "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["속성은 글꼴에서 언어별 상형문자의 사용을 제어합니다."]
@@ -2072,7 +2072,7 @@
       "values": ["none", "auto"],
       "initial": "font-optical-sizing: auto;",
       "syntax": "font-optical-sizing: none | auto | inherit",
-      "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -2094,7 +2094,7 @@
       ],
       "initial": "font-size : medium",
       "syntax": "font-size : medium | xx-small | x-small | small | large|x-large | xx-large | smaller | larger | length",
-      "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS1",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": ["글꼴의 크기를 설정합니다."]
@@ -2114,7 +2114,7 @@
       ],
       "initial": "font-size-adjust : none",
       "syntax": "font-size-adjust : number | none",
-      "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -2129,7 +2129,7 @@
       "values": ["normal", "-condensed", "-expanded", "<percentage>"],
       "initial": "font-stretch : normal",
       "syntax": "font-stretch : ultra-condensed | extra-condensed | condensed | semi-condensed | normal | semi-expanded | expanded | extra-expanded | ultra-expanded",
-      "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["font-stretch 속성은 폰트의 굵기를 정의합니다."]
@@ -2141,7 +2141,7 @@
       "values": ["normal", "italic", "oblique"],
       "initial": "font-style : normal",
       "syntax": "font-style : normal | italic | oblique",
-      "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": ["font-style 속성은 폰트의 스타일을 정의합니다."]
@@ -2153,7 +2153,7 @@
       "values": ["none", "weight", "style", "small-caps"],
       "initial": "font-synthesis: weight style;",
       "syntax": "font-synthesis : none | weight | style | weight style small-caps;",
-      "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -2167,7 +2167,7 @@
       "values": ["normal", "small-caps"],
       "initial": "font-variant : normal",
       "syntax": "font-variant : normal | small-caps",
-      "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS1",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -2191,7 +2191,7 @@
       ],
       "initial": "font-variant-alternates: normal;",
       "syntax": "font-variant-alternates: normal | historical-forms | stylistic(user-defined-ident) | styleset(user-defined-ident) | swash(ident1) annotation(ident2)",
-      "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS1",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["대체 상형문자의 사용을 제어합니다."]
@@ -2210,7 +2210,7 @@
       ],
       "initial": "font-variant-caps: normal;",
       "syntax": "font-variant-caps: normal | small-caps",
-      "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": ["대문자에 대한 대체 상형문자의 사용을 제어합니다."]
@@ -2222,7 +2222,7 @@
       "values": ["normal", "ruby", "<east-asian-variant-values>"],
       "initial": "font-variant-east-asian: normal;",
       "syntax": "font-variant-east-asian: normal | ruby | jis78",
-      "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -2242,7 +2242,7 @@
       ],
       "initial": "font-variant-ligatures: normal;",
       "syntax": "font-variant-ligatures: normal | none | common-ligatures",
-      "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -2263,7 +2263,7 @@
       ],
       "initial": "font-variant-numeric: normal;",
       "syntax": "font-variant-numeric: normal | ordinal",
-      "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -2277,7 +2277,7 @@
       "values": ["normal", "sub", "super"],
       "initial": "font-variant-position: normal;",
       "syntax": "font-variant-position: normal | sub | super",
-      "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -2291,7 +2291,7 @@
       "values": ["normal", "<string> <number>"],
       "initial": "font-variation-settings: normal;",
       "syntax": "font-variation-settings: normal | 'XHGT' 0.7",
-      "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -2305,7 +2305,7 @@
       "values": ["normal", "bold", "lighter", "<number>"],
       "initial": "font-weight : normal;",
       "syntax": "font-weight : normal | bold | bolder | lighter | number",
-      "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS1",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": [
@@ -2320,7 +2320,7 @@
       "values": ["auto", "none"],
       "initial": "forced-color-adjust: auto;",
       "syntax": "forced-color-adjust: auto | none | inherit",
-      "descApple": "all elements and text.",
+      "descApply": "all elements and text.",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -2334,7 +2334,7 @@
       "values": ["<length>", "<percentage>"],
       "initial": "row-gap: normal | column-gap: normal",
       "syntax": "gap: 20px; | gap: 16%; | gap: 20px 10px; | gap: calc(10% + 20px); | gap: calc(10% + 20px);",
-      "descApple": "multi-column elements, flex containers, grid containers",
+      "descApply": "multi-column elements, flex containers, grid containers",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": ["행과 열 사이의 간격(거터)을 설정합니다."]
@@ -2350,7 +2350,7 @@
       ],
       "initial": "grid-template-rows: none | grid-template-columns: none | grid-template-areas: none | grid-auto-rows: auto | grid-auto-columns: auto | grid-auto-flow: row | grid-column-gap: 0 | grid-row-gap: 0 | column-gap: normal | row-gap: normal",
       "syntax": "grid: none; | 'a' 100px 'b' 1fr; | 200px / auto-flow | auto-flow / 200px",
-      "descApple": "grid containers",
+      "descApply": "grid containers",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": ["2차원(행과 열)의 레이아웃 시스템을 제공합니다"]
@@ -2367,7 +2367,7 @@
       ],
       "initial": "grid-area : normal",
       "syntax": "grid-area: auto; | auto / auto / auto / auto; | some-grid-area; | 4 some-grid-area;",
-      "descApple": "grid items and absolutely-positioned boxes whose containing block is a grid container",
+      "descApply": "grid items and absolutely-positioned boxes whose containing block is a grid container",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": [
@@ -2390,7 +2390,7 @@
       ],
       "initial": "grid-auto-columns : normal",
       "syntax": "grid-auto-columns: min-content | max-content | auto | 100px",
-      "descApple": "grid containers",
+      "descApply": "grid containers",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -2404,7 +2404,7 @@
       "values": ["row", "column", "dense"],
       "initial": "grid-auto-flow : row",
       "syntax": "grid-auto-flow: row | column | dense",
-      "descApple": "grid containers",
+      "descApply": "grid containers",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -2427,7 +2427,7 @@
       ],
       "initial": "grid-auto-rows: auto",
       "syntax": "grid-auto-rows: auto | min-content | max-conten | 100px",
-      "descApple": "grid containers",
+      "descApply": "grid containers",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -2446,7 +2446,7 @@
       ],
       "initial": "grid-column-start: auto | grid-column-end: auto",
       "syntax": "grid-column-start: auto; | 1; |  1 / 3;",
-      "descApple": "grid items and absolutely-positioned boxes whose containing block is a grid container",
+      "descApply": "grid items and absolutely-positioned boxes whose containing block is a grid container",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -2465,7 +2465,7 @@
       ],
       "initial": "grid-column-end: auto",
       "syntax": "grid-column-end: auto | somegridarea | 2",
-      "descApple": "grid items and absolutely-positioned boxes whose containing block is a grid container",
+      "descApply": "grid items and absolutely-positioned boxes whose containing block is a grid container",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -2484,7 +2484,7 @@
       ],
       "initial": "auto",
       "syntax": "grid-column-start: auto;",
-      "descApple": "grid items, absolutely-positioned boxes whose containing block is a grid container",
+      "descApply": "grid items, absolutely-positioned boxes whose containing block is a grid container",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -2504,7 +2504,7 @@
       ],
       "initial": "auto",
       "syntax": "grid-row-start:auto;, grid-row-end:auto;",
-      "descApple": "grid items, absolutely-positioned boxes whose containing block is a grid container",
+      "descApply": "grid items, absolutely-positioned boxes whose containing block is a grid container",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -2524,7 +2524,7 @@
       ],
       "initial": "auto",
       "syntax": "grid-row-end: auto;",
-      "descApple": "grid items, absolutely-positioned boxes whose containing block is a grid container",
+      "descApply": "grid items, absolutely-positioned boxes whose containing block is a grid container",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -2544,7 +2544,7 @@
       ],
       "initial": "auto",
       "syntax": "grid-row-start: auto;",
-      "descApple": "grid items, absolutely-positioned boxes whose containing block is a grid container",
+      "descApply": "grid items, absolutely-positioned boxes whose containing block is a grid container",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -2559,7 +2559,7 @@
       "values": ["none", "<'grid-template-rows'> / <'grid-template-columns'>"],
       "initial": "none",
       "syntax": "grid-template-columns: none, grid-template-rows: none, grid-template-areas: none",
-      "descApple": "grid containers",
+      "descApply": "grid containers",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -2573,7 +2573,7 @@
       "values": ["none", "<string>+"],
       "initial": "none",
       "syntax": "grid-template-areas: none;",
-      "descApple": "grid containers",
+      "descApply": "grid containers",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -2596,7 +2596,7 @@
       ],
       "initial": "none",
       "syntax": "grid-template-columns: none;",
-      "descApple": "grid containers",
+      "descApply": "grid containers",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -2619,7 +2619,7 @@
       ],
       "initial": "none",
       "syntax": "grid-template-rows: none;",
-      "descApple": "grid containers",
+      "descApply": "grid containers",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -2633,7 +2633,7 @@
       "values": ["none", "first", "last", "force-end", "allow-end"],
       "initial": "none",
       "syntax": "hanging-punctuation: none;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -2657,7 +2657,7 @@
       ],
       "initial": "auto",
       "syntax": "height: 120px;",
-      "descApple": "all elements but non-replaced inline elements, table columns, and column groups",
+      "descApply": "all elements but non-replaced inline elements, table columns, and column groups",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": [
@@ -2672,7 +2672,7 @@
       "values": ["auto", "<string>"],
       "initial": "auto",
       "syntax": "hyphenate-character: auto;, hyphenate-character: <string>;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -2687,7 +2687,7 @@
       "values": ["none", "manual", "auto"],
       "initial": "manual",
       "syntax": "hyphens: manual;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -2702,7 +2702,7 @@
       "values": ["none", "from-image"],
       "initial": "from-image",
       "syntax": "image-orientation: from-image;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["이미지 방향에 대한 레이아웃 독립적 수정을 지정합니다."]
@@ -2714,7 +2714,7 @@
       "values": ["auto", "crisp-edges", "pixelated"],
       "initial": "auto",
       "syntax": "image-rendering: auto;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -2729,7 +2729,7 @@
       "values": ["from-image", "<resolution>", "snap"],
       "initial": "1dppx",
       "syntax": "image-resolution: 300dpi;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -2744,7 +2744,7 @@
       "values": ["auto", "normal", "active", "inactive", "disabled"],
       "initial": "auto",
       "syntax": "ime-mode: auto;",
-      "descApple": "text fields",
+      "descApply": "text fields",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -2759,7 +2759,7 @@
       "values": ["normal", "<number>", "<integer>"],
       "initial": "normal",
       "syntax": "initial-letter: normal;",
-      "descApple": "::first-letter pseudo-elements, inline-level first child of a block container",
+      "descApply": "::first-letter pseudo-elements, inline-level first child of a block container",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -2773,7 +2773,7 @@
       "values": ["auto", "alphabetic", "hanging", "ideographic"],
       "initial": "auto",
       "syntax": "initial-letter-align: auto;",
-      "descApple": "::first-letter pseudo-elements, inline-level first child of a block container",
+      "descApply": "::first-letter pseudo-elements, inline-level first child of a block container",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["단락 내에서 첫 글자의 정렬을 지정합니다."]
@@ -2785,7 +2785,7 @@
       "values": ["<length>", "<percentage>"],
       "initial": "auto",
       "syntax": "inline-size: 300px;",
-      "descApple": "same as width and height",
+      "descApply": "same as width and height",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -2804,7 +2804,7 @@
       ],
       "initial": "top: auto, bottom: auto, left: auto, right: auto",
       "syntax": "inset: auto;",
-      "descApple": "positioned elements",
+      "descApply": "positioned elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -2822,7 +2822,7 @@
       ],
       "initial": "inset-block-start:auto;, inset-block-end:auto;",
       "syntax": "inset-block: auto;",
-      "descApple": "positioned elements",
+      "descApply": "positioned elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -2840,7 +2840,7 @@
       ],
       "initial": "auto",
       "syntax": "inset-block-end: auto;",
-      "descApple": "positioned elements",
+      "descApply": "positioned elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -2858,7 +2858,7 @@
       ],
       "initial": "auto",
       "syntax": "inset-block-start: auto;",
-      "descApple": "positioned elements",
+      "descApply": "positioned elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -2876,7 +2876,7 @@
       ],
       "initial": "inset-inline-start:auto, inset-inline-end:auto",
       "syntax": "inset-inline: auto;",
-      "descApple": "positioned elements",
+      "descApply": "positioned elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -2894,7 +2894,7 @@
       ],
       "initial": "auto",
       "syntax": "inset-inline-end: auto;",
-      "descApple": "positioned elements",
+      "descApply": "positioned elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -2912,7 +2912,7 @@
       ],
       "initial": "auto",
       "syntax": "inset-inline-start: auto;",
-      "descApple": "positioned elements",
+      "descApply": "positioned elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -2926,7 +2926,7 @@
       "values": ["auto", "isolate"],
       "initial": "auto",
       "syntax": "isolation: auto;",
-      "descApple": "All elements. In SVG, it applies to container elements, graphics elements, and graphics referencing elements.",
+      "descApply": "All elements. In SVG, it applies to container elements, graphics elements, and graphics referencing elements.",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["요소가 새로운 쌓임 맥락을 생성해야 하는지 지정합니다."]
@@ -2954,7 +2954,7 @@
       ],
       "initial": "normal",
       "syntax": "justify-content: normal;",
-      "descApple": "flex containers",
+      "descApply": "flex containers",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ☆",
       "definition": [
@@ -2984,7 +2984,7 @@
       ],
       "initial": "legacy",
       "syntax": "justify-items: normal;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3014,7 +3014,7 @@
       ],
       "initial": "auto",
       "syntax": "justify-self: auto;",
-      "descApple": "block-level boxes, absolutely-positioned boxes, and grid items",
+      "descApply": "block-level boxes, absolutely-positioned boxes, and grid items",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3028,7 +3028,7 @@
       "values": ["<length>", "<percentage>", "auto", "inherit"],
       "initial": "auto",
       "syntax": "left: auto;",
-      "descApple": "positioned elements",
+      "descApply": "positioned elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": [
@@ -3043,7 +3043,7 @@
       "values": ["normal", "<length>"],
       "initial": "normal",
       "syntax": "letter-spacing: normal;",
-      "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -3058,7 +3058,7 @@
       "values": ["auto", "loose", "normal", "strict", "anywhere"],
       "initial": "auto",
       "syntax": "line-break: auto;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -3072,7 +3072,7 @@
       "values": ["normal", "<length>", "<number>", "<percentage>"],
       "initial": "normal",
       "syntax": "line-height: normal;",
-      "descApple": "all elements. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": [
@@ -3087,7 +3087,7 @@
       "values": ["<length>"],
       "initial": "0",
       "syntax": "line-height-step: 18pt;",
-      "descApple": "block containers",
+      "descApply": "block containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3107,7 +3107,7 @@
       ],
       "initial": "list-style-type:disc, list-style-position:outside, list-style-image:none",
       "syntax": "list-style: none;",
-      "descApple": "list items",
+      "descApply": "list items",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ☆",
       "definition": ["목록 스타일을 설정합니다."]
@@ -3119,7 +3119,7 @@
       "values": ["<image>", "none"],
       "initial": "none",
       "syntax": "list-style-image: none;",
-      "descApple": "list items",
+      "descApply": "list items",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["목록 마커의 이미지를 설정합니다."]
@@ -3131,7 +3131,7 @@
       "values": ["inside", "outside"],
       "initial": "outside",
       "syntax": "list-style-position: inside;",
-      "descApple": "list items",
+      "descApply": "list items",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["목록 항목에 대한 상대 위치를 설정합니다."]
@@ -3152,7 +3152,7 @@
       ],
       "initial": "disc",
       "syntax": "list-style-type: disc;",
-      "descApple": "list items",
+      "descApply": "list items",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["목록 마커의 유형을 설정합니다."]
@@ -3164,7 +3164,7 @@
       "values": ["<length>", "<percentage>", "auto"],
       "initial": "margin-bottom:0, margin-left:0, margin-left:0, margin-top:0",
       "syntax": "margin: 10px;",
-      "descApple": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": ["요소의 바깥쪽 여백을 설정합니다."]
@@ -3176,7 +3176,7 @@
       "values": ["<length>", "<percentage>", "auto"],
       "initial": "margin-block-start:0, margin-block-end:0",
       "syntax": "margin-block: 10px;",
-      "descApple": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3190,7 +3190,7 @@
       "values": ["<length>", "<percentage>", "auto"],
       "initial": "0",
       "syntax": "margin-block-end: 10px;",
-      "descApple": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3204,7 +3204,7 @@
       "values": ["<length>", "<percentage>", "auto"],
       "initial": "0",
       "syntax": "margin-block-start: 10px;",
-      "descApple": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3218,7 +3218,7 @@
       "values": ["<length>", "<percentage>", "auto"],
       "initial": "0",
       "syntax": "margin-bottom: 10px;",
-      "descApple": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": ["요소의 아래 바깥쪽 여백을 설정합니다."]
@@ -3230,7 +3230,7 @@
       "values": ["<length>", "<percentage>", "auto"],
       "initial": "margin-inline-start: 0, margin-inline-end: 0",
       "syntax": "margin-inline: 10px;",
-      "descApple": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3244,7 +3244,7 @@
       "values": ["<length>", "<percentage>", "auto"],
       "initial": "0",
       "syntax": "margin-inline-end: 10px;",
-      "descApple": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3258,7 +3258,7 @@
       "values": ["<length>", "<percentage>", "auto"],
       "initial": "0",
       "syntax": "margin-inline-start: 10px;",
-      "descApple": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3272,7 +3272,7 @@
       "values": ["<length>", "<percentage>", "auto"],
       "initial": "0",
       "syntax": "margin-left: 10px; ",
-      "descApple": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": [
@@ -3287,7 +3287,7 @@
       "values": ["<length>", "<percentage>", "auto"],
       "initial": "0",
       "syntax": "margin-right: 10px;",
-      "descApple": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": [
@@ -3302,7 +3302,7 @@
       "values": ["<length>", "<percentage>", "auto"],
       "initial": "0",
       "syntax": "margin-top: 10px; ",
-      "descApple": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements, except elements with table display types other than table-caption, table and inline-table. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": [
@@ -3317,7 +3317,7 @@
       "values": ["none", "in-flow", "all"],
       "initial": "none",
       "syntax": "margin-trim: none;",
-      "descApple": "Block containers and multi-column containers. It also applies to ::first-letter and ::first-line.",
+      "descApply": "Block containers and multi-column containers. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3339,7 +3339,7 @@
       ],
       "initial": "mask-image: none, mask-mode: match-source, mask-repeat: repeat, mask-position: center, mask-clip: border-box, mask-origin: border-box, mask-size: auto, mask-composite: add",
       "syntax": "mask: none;",
-      "descApple": "all elements; In SVG, it applies to container elements excluding the defs element and all graphics elements.",
+      "descApply": "all elements; In SVG, it applies to container elements excluding the defs element and all graphics elements.",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3360,7 +3360,7 @@
       ],
       "initial": "mask-border-mode: alpha, mask-border-outset: 0, mask-border-repeat: stretch, mask-border-repeat: stretch, mask-border-repeat: stretch, mask-border-width: auto",
       "syntax": "mask-border: url('border-mask.png') 25;",
-      "descApple": "all elements; In SVG, it applies to container elements excluding the defs element and all graphics elements.",
+      "descApply": "all elements; In SVG, it applies to container elements excluding the defs element and all graphics elements.",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3374,7 +3374,7 @@
       "values": ["luminance", "alpha"],
       "initial": "alpha",
       "syntax": "mask-border-mode: alpha;",
-      "descApple": "all elements; In SVG, it applies to container elements excluding the defs element and all graphics elements.",
+      "descApply": "all elements; In SVG, it applies to container elements excluding the defs element and all graphics elements.",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["마스크 경계에 사용되는 혼합 모드를 지정합니다."]
@@ -3386,7 +3386,7 @@
       "values": ["<length>", "<number>"],
       "initial": "0",
       "syntax": "mask-border-outset: 1rem;",
-      "descApple": "all elements; In SVG, it applies to container elements excluding the defs element and all graphics element.",
+      "descApply": "all elements; In SVG, it applies to container elements excluding the defs element and all graphics element.",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3400,7 +3400,7 @@
       "values": ["<stretch>, <repeat>, <round>, <space>"],
       "initial": "0",
       "syntax": "mask-border-repeat: stretch",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3415,7 +3415,7 @@
       "values": ["<number>", "<percentage>", "<fill>"],
       "initial": "0",
       "syntax": "mask-border-slice: 30%",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3432,7 +3432,7 @@
       "values": ["<none>", "<image>"],
       "initial": "0",
       "syntax": "mask-border-source: none",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3446,7 +3446,7 @@
       "values": ["<length-percentage>", "<number>", "<auto>"],
       "initial": "0",
       "syntax": "mask-border-width: auto",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3476,7 +3476,7 @@
       ],
       "initial": "border-box",
       "syntax": "mask-clip: auto",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["요소의 페인팅된 콘텐츠는 이 영역으로 제한되어야 합니다."]
@@ -3488,7 +3488,7 @@
       "values": ["<add>", "<subtract>", "<intersect>", "<exclude>"],
       "initial": "add",
       "syntax": "mask-composite: add",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3502,7 +3502,7 @@
       "values": ["<none>", "<mask-source>", "<image>"],
       "initial": "none",
       "syntax": "mask-image: none",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3516,7 +3516,7 @@
       "values": ["<alpha>", "<luminance>", "<match-source>"],
       "initial": "match-source",
       "syntax": "mask-mode: alpha",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3541,7 +3541,7 @@
       ],
       "initial": "border-box",
       "syntax": "mask-origin: content-box",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3555,7 +3555,7 @@
       "values": ["<position>"],
       "initial": "center",
       "syntax": "mask-position: top",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["쉼표로 구분된 하나 이상의 <position>값입니다."]
@@ -3567,7 +3567,7 @@
       "values": ["<repeat-style>"],
       "initial": "repeat",
       "syntax": "mask-repeat: repeat-x",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3581,7 +3581,7 @@
       "values": ["<length>", "<percentage>", "auto", "contain", "cover"],
       "initial": "auto",
       "syntax": "mask-size: cover",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3595,7 +3595,7 @@
       "values": ["luminance", "alpha"],
       "initial": "luminance",
       "syntax": "mask-type: alpha",
-      "descApple": "<mask> elements",
+      "descApply": "<mask> elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3616,7 +3616,7 @@
       ],
       "initial": "none",
       "syntax": "max-block-size: 300px",
-      "descApple": "width, height",
+      "descApply": "width, height",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3637,7 +3637,7 @@
       ],
       "initial": "none",
       "syntax": "max-height: none",
-      "descApple": "all elements, inline elements, table columns, column groups",
+      "descApply": "all elements, inline elements, table columns, column groups",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3658,7 +3658,7 @@
       ],
       "initial": "none",
       "syntax": "max-inline-size: 300px",
-      "descApple": "width, height",
+      "descApply": "width, height",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3679,7 +3679,7 @@
       ],
       "initial": "none",
       "syntax": "max-width: 300px",
-      "descApple": "all elements, inline elements, table columns, column groups",
+      "descApply": "all elements, inline elements, table columns, column groups",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3693,7 +3693,7 @@
       "values": ["<length>", "<percentage>", "none"],
       "initial": "0",
       "syntax": "min-block-size: 300px",
-      "descApple": "width, height",
+      "descApply": "width, height",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3714,7 +3714,7 @@
       ],
       "initial": "0",
       "syntax": "min-height: 300px",
-      "descApple": "all elements, inline elements, table columns, column groups",
+      "descApply": "all elements, inline elements, table columns, column groups",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3728,7 +3728,7 @@
       "values": ["<length>", "<percentage>", "auto"],
       "initial": "0",
       "syntax": "min-inline-size: 300px",
-      "descApple": "width, height",
+      "descApply": "width, height",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3749,7 +3749,7 @@
       ],
       "initial": "auto",
       "syntax": "min-width: 300px",
-      "descApple": "all elements, inline elements, table columns, column groups",
+      "descApply": "all elements, inline elements, table columns, column groups",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3763,7 +3763,7 @@
       "values": ["<blend-mode>"],
       "initial": "normal",
       "syntax": "mix-blend-mode: 300px",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["적용해야 하는 혼합 모드입니다."]
@@ -3775,7 +3775,7 @@
       "values": ["<blend-mode>"],
       "initial": "normal",
       "syntax": "mix-blend-mode: 300px",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["적용해야 하는 혼합 모드입니다."]
@@ -3787,7 +3787,7 @@
       "values": ["contain", "cover", "fill", "none", "scale-down"],
       "initial": "fill",
       "syntax": "object-fit: contain",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3801,7 +3801,7 @@
       "values": ["<position>"],
       "initial": "50% 50%",
       "syntax": "object-position: top",
-      "descApple": "replaced elements",
+      "descApply": "replaced elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3821,7 +3821,7 @@
       ],
       "initial": "50% 50%",
       "syntax": "offset: auto",
-      "descApple": "transformable elements",
+      "descApply": "transformable elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3835,7 +3835,7 @@
       "values": ["auto", "<position>"],
       "initial": "auto",
       "syntax": "offset-anchor: auto",
-      "descApple": "transformable elements",
+      "descApply": "transformable elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3849,7 +3849,7 @@
       "values": ["<length-percentage>"],
       "initial": "0",
       "syntax": "offset-distance: auto",
-      "descApple": "transformable elements",
+      "descApply": "transformable elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3863,7 +3863,7 @@
       "values": ["ray()", "url()", "<basic-shape>", "none"],
       "initial": "none",
       "syntax": "offset-path: none",
-      "descApple": "transformable elements",
+      "descApply": "transformable elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3877,7 +3877,7 @@
       "values": ["auto", "<position>"],
       "initial": "auto",
       "syntax": "offset-position: auto",
-      "descApple": "transformable elements",
+      "descApply": "transformable elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3891,7 +3891,7 @@
       "values": ["auto", "<angle>", "auto <angle>", "reverse"],
       "initial": "auto",
       "syntax": "offset-rotate: auto",
-      "descApple": "transformable elements",
+      "descApply": "transformable elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3905,7 +3905,7 @@
       "values": ["<alpha-value>"],
       "initial": "1",
       "syntax": "opacity: 0",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3919,7 +3919,7 @@
       "values": ["<integer>"],
       "initial": "0",
       "syntax": "order: 0",
-      "descApple": "Flex items, grid items, absolutely-positioned, flex, grid, container, children",
+      "descApply": "Flex items, grid items, absolutely-positioned, flex, grid, container, children",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3933,7 +3933,7 @@
       "values": ["<integer>"],
       "initial": "2",
       "syntax": "orphans: 3",
-      "descApple": "block container elements",
+      "descApply": "block container elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3947,7 +3947,7 @@
       "values": ["<'outline-color'>", "<'outline-style'>", "<'outline-width'>"],
       "initial": "2",
       "syntax": "outline: 3",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3961,7 +3961,7 @@
       "values": ["<color>", "invert"],
       "initial": "no",
       "syntax": "outline-color: 3",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -3975,7 +3975,7 @@
       "values": ["<length>"],
       "initial": "0",
       "syntax": "outline-offset: 3px",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4000,7 +4000,7 @@
       ],
       "initial": "none",
       "syntax": "outline-style: auto",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4014,7 +4014,7 @@
       "values": ["<length>", "thin", "medium", "thick"],
       "initial": "medium",
       "syntax": "outline-width: thin",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4028,7 +4028,7 @@
       "values": ["visible", "hidden", "clip", "scroll", "auto", "overlay"],
       "initial": "visible",
       "syntax": "overflow: visible",
-      "descApple": "Block-containers, flex containers, grid containers",
+      "descApply": "Block-containers, flex containers, grid containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4042,7 +4042,7 @@
       "values": ["auto", "none"],
       "initial": "auto",
       "syntax": "overflow-anchor: visible",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4056,7 +4056,7 @@
       "values": ["visible", "hidden", "scroll", "auto"],
       "initial": "auto",
       "syntax": "overflow-block: visible",
-      "descApple": "Block-containers, flex containers, grid containers",
+      "descApply": "Block-containers, flex containers, grid containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4070,7 +4070,7 @@
       "values": ["<length>", "<percentage>"],
       "initial": "0px",
       "syntax": "overflow-clip-margin: visible",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4084,7 +4084,7 @@
       "values": ["visible", "hidden", "scroll", "auto"],
       "initial": "auto",
       "syntax": "overflow-inline: visible",
-      "descApple": "Block-containers, flex containers, grid containers",
+      "descApply": "Block-containers, flex containers, grid containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4098,7 +4098,7 @@
       "values": ["normal", "anywhere", "break-word"],
       "initial": "normal",
       "syntax": "overflow-wrap: normal",
-      "descApple": "non-replaced inline elements",
+      "descApply": "non-replaced inline elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4112,7 +4112,7 @@
       "values": ["visible", "hidden", "clip", "scroll", "auto"],
       "initial": "visible",
       "syntax": "overflow-x: visible",
-      "descApple": "Block-containers, flex containers, grid containers",
+      "descApply": "Block-containers, flex containers, grid containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4126,7 +4126,7 @@
       "values": ["visible", "hidden", "clip", "scroll", "auto"],
       "initial": "visible",
       "syntax": "overflow-y: visible",
-      "descApple": "Block-containers, flex containers, grid containers",
+      "descApply": "Block-containers, flex containers, grid containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4140,7 +4140,7 @@
       "values": ["auto", "contain", "none"],
       "initial": "auto",
       "syntax": "overscroll-behavior: auto",
-      "descApple": "non-replaced block-level elements, non-replaced inline-block elements",
+      "descApply": "non-replaced block-level elements, non-replaced inline-block elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4154,7 +4154,7 @@
       "values": ["auto", "contain", "none"],
       "initial": "auto",
       "syntax": "overscroll-behavior-block: auto",
-      "descApple": "non-replaced block-level elements, non-replaced inline-block elements",
+      "descApply": "non-replaced block-level elements, non-replaced inline-block elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4168,7 +4168,7 @@
       "values": ["auto", "contain", "none"],
       "initial": "auto",
       "syntax": "overscroll-behavior-x: auto",
-      "descApple": "non-replaced block-level elements, non-replaced inline-block elements",
+      "descApply": "non-replaced block-level elements, non-replaced inline-block elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4182,7 +4182,7 @@
       "values": ["auto", "contain", "none"],
       "initial": "auto",
       "syntax": "overscroll-behavior-y: auto",
-      "descApple": "non-replaced block-level elements, non-replaced inline-block elements",
+      "descApply": "non-replaced block-level elements, non-replaced inline-block elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4196,7 +4196,7 @@
       "values": ["<length>", "<percentage>"],
       "initial": "no",
       "syntax": "padding: 15px",
-      "descApple": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column. It also applies to ::first-letter and ::first-line.",
+      "descApply": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column. It also applies to ::first-letter and ::first-line.",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4213,7 +4213,7 @@
       "values": ["<length>", "<percentage>"],
       "initial": "no",
       "syntax": "padding-block: 15px",
-      "descApple": "table-row-group, table-header-group, table-footer-group, table-row, table-column-group , table-column",
+      "descApply": "table-row-group, table-header-group, table-footer-group, table-row, table-column-group , table-column",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4227,7 +4227,7 @@
       "values": ["<length>", "<percentage>"],
       "initial": "0",
       "syntax": "padding-block-end: 15px",
-      "descApple": "table-row-group, table-header-group, table-footer-group, table-row, table-column-group , table-column",
+      "descApply": "table-row-group, table-header-group, table-footer-group, table-row, table-column-group , table-column",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4241,7 +4241,7 @@
       "values": ["<length>", "<percentage>"],
       "initial": "0",
       "syntax": "padding-block-start: 15px",
-      "descApple": "table-row-group, table-header-group, table-footer-group, table-row, table-column-group , table-column",
+      "descApply": "table-row-group, table-header-group, table-footer-group, table-row, table-column-group , table-column",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4255,7 +4255,7 @@
       "values": ["<length>", "<percentage>"],
       "initial": "0",
       "syntax": "padding-inline-end: 10px",
-      "descApple": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column",
+      "descApply": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4270,7 +4270,7 @@
       "values": ["<length>", "<percentage>"],
       "initial": "0",
       "syntax": "padding-inline-start: 10px",
-      "descApple": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column",
+      "descApply": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4285,7 +4285,7 @@
       "values": ["<length>", "<percentage>"],
       "initial": "0",
       "syntax": "padding-left: 0.5em",
-      "descApple": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column",
+      "descApply": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": ["요소의 왼쪽에 패딩 영역의 폭을 설정합니다"]
@@ -4297,7 +4297,7 @@
       "values": ["<length>", "<percentage>"],
       "initial": "0",
       "syntax": "padding-right: 0.5em",
-      "descApple": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column",
+      "descApply": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": ["요소의 오른쪽에 있는 패딩 영역의 폭을 설정합니다"]
@@ -4309,7 +4309,7 @@
       "values": ["<length>", "<percentage>"],
       "initial": "0",
       "syntax": "padding-top: 0.5em;",
-      "descApple": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column",
+      "descApply": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": ["요소 상단에 있는 패딩 영역의 높이를 설정합니다."]
@@ -4321,7 +4321,7 @@
       "values": ["auto", "always", "avoid", "left", "right", "recto", "verso"],
       "initial": "auto",
       "syntax": "page-break-after: auto;",
-      "descApple": "block-level elements",
+      "descApply": "block-level elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4336,7 +4336,7 @@
       "values": ["auto", "always", "avoid", "left", "right", "recto", "verso"],
       "initial": "auto",
       "syntax": "page-break-before: auto;",
-      "descApple": "block-level elements",
+      "descApply": "block-level elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4351,7 +4351,7 @@
       "values": ["auto", "avoid"],
       "initial": "auto",
       "syntax": "page-break-inside: auto;",
-      "descApple": "block-level elements",
+      "descApply": "block-level elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4366,7 +4366,7 @@
       "values": ["none", "<length>"],
       "initial": "none",
       "syntax": "perspective: none;",
-      "descApple": "transformable elements",
+      "descApply": "transformable elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆☆☆",
       "definition": [
@@ -4380,7 +4380,7 @@
       "values": ["x-position", "y-position"],
       "initial": "50% 50%",
       "syntax": "perspective-origin: x-position;",
-      "descApple": "transformable elements",
+      "descApply": "transformable elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -4404,7 +4404,7 @@
       ],
       "initial": "align-content: normal, justify-content: normal",
       "syntax": "place-content: center start;",
-      "descApple": "multi-line flex containers",
+      "descApply": "multi-line flex containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4418,7 +4418,7 @@
       "values": ["align-items의 값", "justify-items의 값"],
       "initial": "normal, legacy",
       "syntax": "place-items: center;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4442,7 +4442,7 @@
       ],
       "initial": "align-self: auto, justify-self: auto",
       "syntax": "place-self: auto center;",
-      "descApple": "block-level boxes, absolutely-positioned boxes, and grid items",
+      "descApply": "block-level boxes, absolutely-positioned boxes, and grid items",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4457,7 +4457,7 @@
       "values": ["auto", "none", "svg 전용 값들"],
       "initial": "auto",
       "syntax": "pointer-events: auto;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -4471,7 +4471,7 @@
       "values": ["static", "relative", "absolute", "fixed", "sticky"],
       "initial": "static",
       "syntax": "position: static;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": [
@@ -4486,7 +4486,7 @@
       "values": ["economy", "exact"],
       "initial": "economy",
       "syntax": "print-color-adjust: economy;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4501,7 +4501,7 @@
       "values": ["none", "auto", "[<string> <string>]+"],
       "initial": "depends on user agent",
       "syntax": "quotes: none;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4516,7 +4516,7 @@
       "values": ["none", "both", "horizontal", "vertical", "block", "inline"],
       "initial": "none",
       "syntax": "resize: none;",
-      "descApple": "elements with overflow, images or videos, and iframes",
+      "descApply": "elements with overflow, images or videos, and iframes",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆☆☆",
       "definition": [
@@ -4530,7 +4530,7 @@
       "values": ["<length>", "<percentage>", "auto", "inherit"],
       "initial": "auto",
       "syntax": "right: 3px;",
-      "descApple": "positioned elements",
+      "descApply": "positioned elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": [
@@ -4550,7 +4550,7 @@
       ],
       "initial": "none",
       "syntax": "rotate: none;",
-      "descApple": "transformable elements",
+      "descApply": "transformable elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ☆",
       "definition": [
@@ -4565,7 +4565,7 @@
       "values": ["<length-percentage>"],
       "initial": "normal",
       "syntax": "row-gap: 20px;",
-      "descApple": "multi-column elements, flex containers, grid containers",
+      "descApply": "multi-column elements, flex containers, grid containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["요소의 행 사이의 간격(거터) 크기를 설정합니다"]
@@ -4577,7 +4577,7 @@
       "values": ["start", "center", "space-between", "space-around"],
       "initial": "space-around",
       "syntax": "ruby-align: start;",
-      "descApple": "ruby bases, ruby annotations, ruby base containers, ruby annotation containers",
+      "descApply": "ruby bases, ruby annotations, ruby base containers, ruby annotation containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["베이스에 걸친 다양한 루비 요소의 분포를 정의합니다"]
@@ -4589,7 +4589,7 @@
       "values": ["over", "under", "inter-character", "alternate"],
       "initial": "alternate",
       "syntax": "ruby-position: over;",
-      "descApple": "ruby annotations containers",
+      "descApply": "ruby annotations containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4604,7 +4604,7 @@
       "values": ["1~3개의 value(x,y,z)", "none"],
       "initial": "none",
       "syntax": "scale: none;",
-      "descApple": "transformable elements",
+      "descApply": "transformable elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ☆",
       "definition": [
@@ -4619,7 +4619,7 @@
       "values": ["auto", "smooth"],
       "initial": "auto",
       "syntax": "scroll-behavior: auto;",
-      "descApple": "scrolling boxes",
+      "descApply": "scrolling boxes",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4634,7 +4634,7 @@
       "values": ["<length>"],
       "initial": "0",
       "syntax": "scroll-margin: 10px;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4648,7 +4648,7 @@
       "values": ["<length>"],
       "initial": "0",
       "syntax": "scroll-margin-block: 10px;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["요소의 스크롤 여백을 설정합니다."]
@@ -4660,7 +4660,7 @@
       "values": ["<length>"],
       "initial": "0",
       "syntax": "scroll-margin-block-end: 10px;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["끝에 있는 스크롤 스냅 영역의 여백을 정의합니다"]
@@ -4672,7 +4672,7 @@
       "values": ["<length>"],
       "initial": "0",
       "syntax": "scroll-margin-block-start: 10px;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["시작 부분에 있는 스크롤 스냅 영역의 여백을 정의합니다"]
@@ -4684,7 +4684,7 @@
       "values": ["<length>"],
       "initial": "0",
       "syntax": "scroll-margin-bottom: 10px;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["스크롤 스냅 영역의 아래쪽 여백을 정의합니다"]
@@ -4696,7 +4696,7 @@
       "values": ["<length>"],
       "initial": "0",
       "syntax": "scroll-margin-inline: 10px;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["인라인 치수에 있는 요소의 스크롤 여백을 설정합니다."]
@@ -4708,7 +4708,7 @@
       "values": ["<length>"],
       "initial": "0",
       "syntax": "scroll-margin-inline-end: 10px;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4722,7 +4722,7 @@
       "values": ["<length>"],
       "initial": "0",
       "syntax": "scroll-margin-inline-start: 10px;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4736,7 +4736,7 @@
       "values": ["<length>"],
       "initial": "0",
       "syntax": "scroll-margin-left: 10px;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["스크롤 스냅 영역의 왼쪽 여백을 정의합니다"]
@@ -4748,7 +4748,7 @@
       "values": ["<length>"],
       "initial": "0",
       "syntax": "scroll-margin-right: 10px;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["스크롤 스냅 영역의 오른쪽 여백을 정의합니다"]
@@ -4760,7 +4760,7 @@
       "values": ["<length>"],
       "initial": "0",
       "syntax": "scroll-margin-top: 10px;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["스크롤 스냅 영역의 상단 여백을 정의합니다"]
@@ -4772,7 +4772,7 @@
       "values": ["<length-percentage>", "auto"],
       "initial": "auto",
       "syntax": "scroll-padding: auto;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4786,7 +4786,7 @@
       "values": ["<length-percentage>", "auto"],
       "initial": "auto",
       "syntax": "scroll-padding-block: auto;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4801,7 +4801,7 @@
       "values": ["<length-percentage>", "auto"],
       "initial": "auto",
       "syntax": "scroll-padding-block-end: auto;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4816,7 +4816,7 @@
       "values": ["<length-percentage>", "auto"],
       "initial": "auto",
       "syntax": "scroll-padding-block-start: auto;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4831,7 +4831,7 @@
       "values": ["<length-percentage>", "auto"],
       "initial": "auto",
       "syntax": "scroll-padding-bottom: auto;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4846,7 +4846,7 @@
       "values": ["<length-percentage>", "auto"],
       "initial": "auto",
       "syntax": "scroll-padding-inline: auto;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["인라인 치수에 있는 요소의 스크롤 패딩을 설정합니다"]
@@ -4858,7 +4858,7 @@
       "values": ["<length-percentage>", "auto"],
       "initial": "auto",
       "syntax": "scroll-padding-inline-end: auto;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4872,7 +4872,7 @@
       "values": ["<length-percentage>", "auto"],
       "initial": "auto",
       "syntax": "scroll-padding-inline-start: auto;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4887,7 +4887,7 @@
       "values": ["<length-percentage>", "auto"],
       "initial": "auto",
       "syntax": "scroll-padding-left: auto;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4902,7 +4902,7 @@
       "values": ["<length-percentage>", "auto"],
       "initial": "auto",
       "syntax": "scroll-padding-right: auto;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4917,7 +4917,7 @@
       "values": ["<length-percentage>", "auto"],
       "initial": "auto",
       "syntax": "scroll-padding-top: auto;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4932,7 +4932,7 @@
       "values": ["none", "start", "end", "center"],
       "initial": "none",
       "syntax": "scroll-snap-align: none;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4948,7 +4948,7 @@
       "values": ["none", "<position>"],
       "initial": "none",
       "syntax": "scroll-snap-coordinate: none;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4963,7 +4963,7 @@
       "values": ["<position>"],
       "initial": "0px 0px",
       "syntax": "scroll-snap-destination: 400px 600px;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4978,7 +4978,7 @@
       "values": ["none", "repeat(<length-percentage>)"],
       "initial": "none",
       "syntax": "scroll-snap-points-x: none;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -4993,7 +4993,7 @@
       "values": ["none", "repeat(<length-percentage>)"],
       "initial": "none",
       "syntax": "scroll-snap-points-y: none;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5008,7 +5008,7 @@
       "values": ["normal", "always"],
       "initial": "normal",
       "syntax": "scroll-snap-stop: normal;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5031,7 +5031,7 @@
       ],
       "initial": "none",
       "syntax": "scroll-snap-type: none;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5046,7 +5046,7 @@
       "values": ["<scrollbar-color>", "auto"],
       "initial": "auto",
       "syntax": "scrollbar-color: auto;",
-      "descApple": "scrolling boxes",
+      "descApply": "scrolling boxes",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["스크롤바의 트랙과 막대 색상을 설정합니다"]
@@ -5058,7 +5058,7 @@
       "values": ["<length>", "<percentage>"],
       "initial": "0",
       "syntax": "padding-inline-end: 10px",
-      "descApple": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column",
+      "descApply": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5073,7 +5073,7 @@
       "values": ["<length>", "<percentage>"],
       "initial": "0",
       "syntax": "padding-inline-start: 10px",
-      "descApple": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column",
+      "descApply": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5088,7 +5088,7 @@
       "values": ["<length>", "<percentage>"],
       "initial": "0",
       "syntax": "padding-left: 0.5em",
-      "descApple": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column",
+      "descApply": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": ["요소의 왼쪽에 패딩 영역의 폭을 설정합니다"]
@@ -5100,7 +5100,7 @@
       "values": ["<length>", "<percentage>"],
       "initial": "0",
       "syntax": "padding-right: 0.5em",
-      "descApple": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column",
+      "descApply": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": ["요소의 오른쪽에 있는 패딩 영역의 폭을 설정합니다"]
@@ -5112,7 +5112,7 @@
       "values": ["<length>", "<percentage>"],
       "initial": "0",
       "syntax": "padding-top: 0.5em;",
-      "descApple": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column",
+      "descApply": "all elements, except table-row-group, table-header-group, table-footer-group, table-row, table-column-group and table-column",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": ["요소 상단에 있는 패딩 영역의 높이를 설정합니다."]
@@ -5124,7 +5124,7 @@
       "values": ["auto", "always", "avoid", "left", "right", "recto", "verso"],
       "initial": "auto",
       "syntax": "page-break-after: auto;",
-      "descApple": "block-level elements",
+      "descApply": "block-level elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5139,7 +5139,7 @@
       "values": ["auto", "always", "avoid", "left", "right", "recto", "verso"],
       "initial": "auto",
       "syntax": "page-break-before: auto;",
-      "descApple": "block-level elements",
+      "descApply": "block-level elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5154,7 +5154,7 @@
       "values": ["auto", "avoid"],
       "initial": "auto",
       "syntax": "page-break-inside: auto;",
-      "descApple": "block-level elements",
+      "descApply": "block-level elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5169,7 +5169,7 @@
       "values": ["none", "<length>"],
       "initial": "none",
       "syntax": "perspective: none;",
-      "descApple": "transformable elements",
+      "descApply": "transformable elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -5183,7 +5183,7 @@
       "values": ["x-position", "y-position"],
       "initial": "50% 50%",
       "syntax": "perspective-origin: x-position;",
-      "descApple": "transformable elements",
+      "descApply": "transformable elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -5207,7 +5207,7 @@
       ],
       "initial": "align-content: normal, justify-content: normal",
       "syntax": "place-content: center start;",
-      "descApple": "multi-line flex containers",
+      "descApply": "multi-line flex containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5221,7 +5221,7 @@
       "values": ["align-items의 값", "justify-items의 값"],
       "initial": "normal, legacy",
       "syntax": "place-items: center;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5245,7 +5245,7 @@
       ],
       "initial": "align-self: auto, justify-self: auto",
       "syntax": "place-self: auto center;",
-      "descApple": "block-level boxes, absolutely-positioned boxes, and grid items",
+      "descApply": "block-level boxes, absolutely-positioned boxes, and grid items",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5260,7 +5260,7 @@
       "values": ["auto", "none", "svg 전용 값들"],
       "initial": "auto",
       "syntax": "pointer-events: auto;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -5274,7 +5274,7 @@
       "values": ["static", "relative", "absolute", "fixed", "sticky"],
       "initial": "static",
       "syntax": "position: static;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": [
@@ -5289,7 +5289,7 @@
       "values": ["economy", "exact"],
       "initial": "economy",
       "syntax": "print-color-adjust: economy;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5304,7 +5304,7 @@
       "values": ["none", "auto", "[<string> <string>]+"],
       "initial": "depends on user agent",
       "syntax": "quotes: none;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5319,7 +5319,7 @@
       "values": ["none", "both", "horizontal", "vertical", "block", "inline"],
       "initial": "none",
       "syntax": "resize: none;",
-      "descApple": "elements with overflow, images or videos, and iframes",
+      "descApply": "elements with overflow, images or videos, and iframes",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆☆☆",
       "definition": [
@@ -5333,7 +5333,7 @@
       "values": ["<length>", "<percentage>", "auto", "inherit"],
       "initial": "auto",
       "syntax": "right: 3px;",
-      "descApple": "positioned elements",
+      "descApply": "positioned elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": [
@@ -5353,7 +5353,7 @@
       ],
       "initial": "none",
       "syntax": "rotate: none;",
-      "descApple": "transformable elements",
+      "descApply": "transformable elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ☆",
       "definition": [
@@ -5368,7 +5368,7 @@
       "values": ["<length-percentage>"],
       "initial": "normal",
       "syntax": "row-gap: 20px;",
-      "descApple": "multi-column elements, flex containers, grid containers",
+      "descApply": "multi-column elements, flex containers, grid containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["요소의 행 사이의 간격(거터) 크기를 설정합니다"]
@@ -5380,7 +5380,7 @@
       "values": ["start", "center", "space-between", "space-around"],
       "initial": "space-around",
       "syntax": "ruby-align: start;",
-      "descApple": "ruby bases, ruby annotations, ruby base containers, ruby annotation containers",
+      "descApply": "ruby bases, ruby annotations, ruby base containers, ruby annotation containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["베이스에 걸친 다양한 루비 요소의 분포를 정의합니다"]
@@ -5392,7 +5392,7 @@
       "values": ["over", "under", "inter-character", "alternate"],
       "initial": "alternate",
       "syntax": "ruby-position: over;",
-      "descApple": "ruby annotations containers",
+      "descApply": "ruby annotations containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5407,7 +5407,7 @@
       "values": ["1~3개의 value(x,y,z)", "none"],
       "initial": "none",
       "syntax": "scale: none;",
-      "descApple": "transformable elements",
+      "descApply": "transformable elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ☆",
       "definition": [
@@ -5422,7 +5422,7 @@
       "values": ["auto", "smooth"],
       "initial": "auto",
       "syntax": "scroll-behavior: auto;",
-      "descApple": "scrolling boxes",
+      "descApply": "scrolling boxes",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5437,7 +5437,7 @@
       "values": ["<length>"],
       "initial": "0",
       "syntax": "scroll-margin: 10px;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5451,7 +5451,7 @@
       "values": ["<length>"],
       "initial": "0",
       "syntax": "scroll-margin-block: 10px;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["요소의 스크롤 여백을 설정합니다."]
@@ -5463,7 +5463,7 @@
       "values": ["<length>"],
       "initial": "0",
       "syntax": "scroll-margin-block-end: 10px;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["끝에 있는 스크롤 스냅 영역의 여백을 정의합니다"]
@@ -5475,7 +5475,7 @@
       "values": ["<length>"],
       "initial": "0",
       "syntax": "scroll-margin-block-start: 10px;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["시작 부분에 있는 스크롤 스냅 영역의 여백을 정의합니다"]
@@ -5487,7 +5487,7 @@
       "values": ["<length>"],
       "initial": "0",
       "syntax": "scroll-margin-bottom: 10px;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["스크롤 스냅 영역의 아래쪽 여백을 정의합니다"]
@@ -5499,7 +5499,7 @@
       "values": ["<length>"],
       "initial": "0",
       "syntax": "scroll-margin-inline: 10px;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["인라인 치수에 있는 요소의 스크롤 여백을 설정합니다."]
@@ -5511,7 +5511,7 @@
       "values": ["<length>"],
       "initial": "0",
       "syntax": "scroll-margin-inline-end: 10px;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5525,7 +5525,7 @@
       "values": ["<length>"],
       "initial": "0",
       "syntax": "scroll-margin-inline-start: 10px;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5539,7 +5539,7 @@
       "values": ["<length>"],
       "initial": "0",
       "syntax": "scroll-margin-left: 10px;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["스크롤 스냅 영역의 왼쪽 여백을 정의합니다"]
@@ -5551,7 +5551,7 @@
       "values": ["<length>"],
       "initial": "0",
       "syntax": "scroll-margin-right: 10px;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["스크롤 스냅 영역의 오른쪽 여백을 정의합니다"]
@@ -5563,7 +5563,7 @@
       "values": ["<length>"],
       "initial": "0",
       "syntax": "scroll-margin-top: 10px;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["스크롤 스냅 영역의 상단 여백을 정의합니다"]
@@ -5575,7 +5575,7 @@
       "values": ["<length-percentage>", "auto"],
       "initial": "auto",
       "syntax": "scroll-padding: auto;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5589,7 +5589,7 @@
       "values": ["<length-percentage>", "auto"],
       "initial": "auto",
       "syntax": "scroll-padding-block: auto;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5604,7 +5604,7 @@
       "values": ["<length-percentage>", "auto"],
       "initial": "auto",
       "syntax": "scroll-padding-block-end: auto;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5619,7 +5619,7 @@
       "values": ["<length-percentage>", "auto"],
       "initial": "auto",
       "syntax": "scroll-padding-block-start: auto;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5634,7 +5634,7 @@
       "values": ["<length-percentage>", "auto"],
       "initial": "auto",
       "syntax": "scroll-padding-bottom: auto;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5649,7 +5649,7 @@
       "values": ["<length-percentage>", "auto"],
       "initial": "auto",
       "syntax": "scroll-padding-inline: auto;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["인라인 치수에 있는 요소의 스크롤 패딩을 설정합니다"]
@@ -5661,7 +5661,7 @@
       "values": ["<length-percentage>", "auto"],
       "initial": "auto",
       "syntax": "scroll-padding-inline-end: auto;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5675,7 +5675,7 @@
       "values": ["<length-percentage>", "auto"],
       "initial": "auto",
       "syntax": "scroll-padding-inline-start: auto;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5690,7 +5690,7 @@
       "values": ["<length-percentage>", "auto"],
       "initial": "auto",
       "syntax": "scroll-padding-left: auto;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5705,7 +5705,7 @@
       "values": ["<length-percentage>", "auto"],
       "initial": "auto",
       "syntax": "scroll-padding-right: auto;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5720,7 +5720,7 @@
       "values": ["<length-percentage>", "auto"],
       "initial": "auto",
       "syntax": "scroll-padding-top: auto;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5735,7 +5735,7 @@
       "values": ["none", "start", "end", "center"],
       "initial": "none",
       "syntax": "scroll-snap-align: none;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5751,7 +5751,7 @@
       "values": ["none", "<position>"],
       "initial": "none",
       "syntax": "scroll-snap-coordinate: none;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5766,7 +5766,7 @@
       "values": ["<position>"],
       "initial": "0px 0px",
       "syntax": "scroll-snap-destination: 400px 600px;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5781,7 +5781,7 @@
       "values": ["none", "repeat(<length-percentage>)"],
       "initial": "none",
       "syntax": "scroll-snap-points-x: none;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5796,7 +5796,7 @@
       "values": ["none", "repeat(<length-percentage>)"],
       "initial": "none",
       "syntax": "scroll-snap-points-y: none;",
-      "descApple": "scroll containers",
+      "descApply": "scroll containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5811,7 +5811,7 @@
       "values": ["normal", "always"],
       "initial": "normal",
       "syntax": "scroll-snap-stop: normal;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5834,7 +5834,7 @@
       ],
       "initial": "none",
       "syntax": "scroll-snap-type: none;",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5849,7 +5849,7 @@
       "values": ["<scrollbar-color>", "auto"],
       "initial": "auto",
       "syntax": "scrollbar-color: auto;",
-      "descApple": "scrolling boxes",
+      "descApply": "scrolling boxes",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["스크롤바의 트랙과 막대 색상을 설정합니다"]
@@ -5861,7 +5861,7 @@
       "values": ["auto", "<color>"],
       "initial": "auto",
       "syntax": "scrollbar-color: auto",
-      "descApple": "scrolling boxes",
+      "descApply": "scrolling boxes",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5876,7 +5876,7 @@
       "values": ["auto", "stable", "both-edges"],
       "initial": "auto",
       "syntax": "scrollbar-gutter: auto",
-      "descApple": "scrolling boxes",
+      "descApply": "scrolling boxes",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5892,7 +5892,7 @@
       "values": ["auto", "thin", "none"],
       "initial": "auto",
       "syntax": "scrollbar-width: auto",
-      "descApple": "scrolling boxes",
+      "descApply": "scrolling boxes",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": ["스크롤 막대의 최대 너비를 설정합니다."]
@@ -5904,7 +5904,7 @@
       "values": ["<number>"],
       "initial": "0.0",
       "syntax": "shape-image-threshold: 0.7",
-      "descApple": "floats",
+      "descApply": "floats",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5919,7 +5919,7 @@
       "values": ["<length>", "<percentage>"],
       "initial": "0",
       "syntax": "shape-margin: 10px",
-      "descApple": "floats",
+      "descApply": "floats",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5947,7 +5947,7 @@
       ],
       "initial": "none",
       "syntax": "shape-outside: none",
-      "descApple": "floats",
+      "descApply": "floats",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5962,7 +5962,7 @@
       "values": ["<integer>", "<length>"],
       "initial": "8",
       "syntax": "tab-size: 10px",
-      "descApple": "block containers",
+      "descApply": "block containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -5977,7 +5977,7 @@
       "values": ["auto", "fixed"],
       "initial": "auto",
       "syntax": "table-layout: auto",
-      "descApple": "table",
+      "descApply": "table",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -6002,7 +6002,7 @@
       ],
       "initial": "start",
       "syntax": "text-align: start",
-      "descApple": "block containers",
+      "descApply": "block containers",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": [
@@ -6017,7 +6017,7 @@
       "values": ["auto", "start", "end", "left", "right", "center", "justify"],
       "initial": "auto",
       "syntax": "text-align-last: auto",
-      "descApple": "block containers",
+      "descApply": "block containers",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -6032,7 +6032,7 @@
       "values": ["none", "all"],
       "initial": "none",
       "syntax": "text-combine-upright: none",
-      "descApple": "non-replaced inline elements",
+      "descApply": "non-replaced inline elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -6048,7 +6048,7 @@
       "values": ["underline", "overline <color>", "none"],
       "initial": "none",
       "syntax": "text-decoration: none",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": [
@@ -6063,7 +6063,7 @@
       "values": ["<color>", "currentcolor", "transparent"],
       "initial": "currentcolor",
       "syntax": "text-decoration-color: red",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -6078,7 +6078,7 @@
       "values": ["none", "underline", "overline", "line-through", "blink"],
       "initial": "none",
       "syntax": "text-decoration-line: none",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -6093,7 +6093,7 @@
       "values": ["none", "objects", "spaces", "edges", "box-decoration"],
       "initial": "objects",
       "syntax": "text-decoration-skip: objects",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -6108,7 +6108,7 @@
       "values": ["none", "auto", "all"],
       "initial": "auto",
       "syntax": "text-decoration-ink: auto",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -6123,7 +6123,7 @@
       "values": ["solid", "double", "dotted", "dashed", "wavy"],
       "initial": "solid",
       "syntax": "text-decoration-style: solid",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -6138,7 +6138,7 @@
       "values": ["auto", "from-font", "<length>", "<percentage>"],
       "initial": "auto",
       "syntax": "text-decoration-thickness: auto",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -6153,7 +6153,7 @@
       "values": ["none", "<string>", "filled", "open"],
       "initial": "none",
       "syntax": "text-emphasis: none",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -6168,7 +6168,7 @@
       "values": ["currentcolor", "<color>"],
       "initial": "currentcolor",
       "syntax": "text-emphasis-color: #555",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -6183,7 +6183,7 @@
       "values": ["over right", "over left", "under right", "under left"],
       "initial": "over right",
       "syntax": "text-emphasis-position: over right",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -6209,7 +6209,7 @@
       ],
       "initial": "none",
       "syntax": "text-emphasis-style: none",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -6224,7 +6224,7 @@
       "values": ["<length>", "<percentage>", "each-line", "hanging"],
       "initial": "0",
       "syntax": "text-indent: 5em hanging",
-      "descApple": "block containers",
+      "descApply": "block containers",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -6239,7 +6239,7 @@
       "values": ["none", "auto", "inter-word", "inter-character", "distribute"],
       "initial": "auto",
       "syntax": "text-justify: auto",
-      "descApple": "inline-level",
+      "descApply": "inline-level",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -6260,7 +6260,7 @@
       ],
       "initial": "mixed",
       "syntax": "text-orientation: mixed",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -6276,7 +6276,7 @@
       "values": ["clip", "ellipsis ellipsis", "ellipsis"],
       "initial": "clip",
       "syntax": "text-overflow: clip",
-      "descApple": "block elements",
+      "descApply": "block elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -6296,7 +6296,7 @@
       ],
       "initial": "auto",
       "syntax": "text-rendering: auto",
-      "descApple": "text elements",
+      "descApply": "text elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -6311,7 +6311,7 @@
       "values": ["none", "offset-x | offset-y | blur-radius | color"],
       "initial": "none",
       "syntax": "text-shadow: 1px 1px 2px black",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ☆",
       "definition": [
@@ -6326,7 +6326,7 @@
       "values": ["none", "auto", "<percentage>"],
       "initial": "auto",
       "syntax": "text-size-adjust: auto",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -6349,7 +6349,7 @@
       ],
       "initial": "none",
       "syntax": "text-transform: none",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -6364,7 +6364,7 @@
       "values": ["auto", "<length>", "<percentage>"],
       "initial": "auto",
       "syntax": "text-underline-offset: auto",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -6379,7 +6379,7 @@
       "values": ["auto", "under", "left", "right"],
       "initial": "auto",
       "syntax": "text-underline-position: auto",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -6394,7 +6394,7 @@
       "values": ["<length>", "<percentage>", "auto"],
       "initial": "auto",
       "syntax": "top: 3px",
-      "descApple": "positioned elements",
+      "descApply": "positioned elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": [
@@ -6420,7 +6420,7 @@
       ],
       "initial": "auto",
       "syntax": "touch-action: auto",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -6458,7 +6458,7 @@
       ],
       "initial": "none",
       "syntax": "transform: none",
-      "descApple": "transformable elements",
+      "descApply": "transformable elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": [
@@ -6479,7 +6479,7 @@
       ],
       "initial": "view-box",
       "syntax": "transform-box: view-box",
-      "descApple": "transformable elements",
+      "descApply": "transformable elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -6501,7 +6501,7 @@
       ],
       "initial": "50% 50% 0",
       "syntax": "transform-origin: 50% 50% 0",
-      "descApple": "transformable elements",
+      "descApply": "transformable elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -6516,7 +6516,7 @@
       "values": ["flat", "preserve-3d"],
       "initial": "flat",
       "syntax": "transform-style: flat",
-      "descApple": "transformable elements",
+      "descApply": "transformable elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -6538,7 +6538,7 @@
       ],
       "initial": "all 0s 0s ease",
       "syntax": "transition: all 0s 0s ease",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": [
@@ -6554,7 +6554,7 @@
       "values": ["<time>"],
       "initial": "0s",
       "syntax": "transition-delay: 0s",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -6570,7 +6570,7 @@
       "values": ["<time>"],
       "initial": "0s",
       "syntax": "transition-duration: 0s",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -6585,7 +6585,7 @@
       "values": ["none", "all", "<custom-ident>"],
       "initial": "all",
       "syntax": "transition-property: all",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -6611,7 +6611,7 @@
       ],
       "initial": "ease",
       "syntax": "transition-property: ease",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -6626,7 +6626,7 @@
       "values": ["none", "<length>"],
       "initial": "none",
       "syntax": "translate: 100px 200px",
-      "descApple": "transformable elements",
+      "descApply": "transformable elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ☆",
       "definition": [
@@ -6648,7 +6648,7 @@
       ],
       "initial": "normal",
       "syntax": "unicode-bidi: normal",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -6663,7 +6663,7 @@
       "values": ["none", "auto", "text", "contain", "all"],
       "initial": "auto",
       "syntax": "user-select: auto",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -6689,7 +6689,7 @@
       ],
       "initial": "baseline",
       "syntax": "vertical-align: baseline",
-      "descApple": "inline-level table-cell",
+      "descApply": "inline-level table-cell",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -6704,7 +6704,7 @@
       "values": ["visible", "hidden", "collapse"],
       "initial": "visible",
       "syntax": "visibility: visible",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -6726,7 +6726,7 @@
       ],
       "initial": "normal",
       "syntax": "white-space: normal",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -6741,7 +6741,7 @@
       "values": ["<integer>"],
       "initial": "2",
       "syntax": "widows: 2",
-      "descApple": "block elements",
+      "descApply": "block elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -6763,7 +6763,7 @@
       ],
       "initial": "auto",
       "syntax": "width: 100%",
-      "descApple": "block elements",
+      "descApply": "block elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ✦",
       "definition": [
@@ -6785,7 +6785,7 @@
       ],
       "initial": "auto",
       "syntax": "will-change: auto",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -6800,7 +6800,7 @@
       "values": ["normal", "break-all", "keep-all", "break-word"],
       "initial": "normal",
       "syntax": "word-break: normal",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ☆ ☆",
       "definition": [
@@ -6815,7 +6815,7 @@
       "values": ["normal", "<length>"],
       "initial": "normal",
       "syntax": "word-spacing: normal",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ☆ ☆ ☆",
       "definition": [
@@ -6830,7 +6830,7 @@
       "values": ["horizontal-tb", "vertical-rl", "vertical-lr"],
       "initial": "horizontal-tb",
       "syntax": "writing-mode: horizontal-tb",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ☆ ☆ ☆ ☆",
       "definition": [
@@ -6845,7 +6845,7 @@
       "values": ["auto", "<integer>"],
       "initial": "auto",
       "syntax": "z-index: 1",
-      "descApple": "all elements",
+      "descApply": "all elements",
       "descVer": "CSS3",
       "descStar": "★ ★ ★ ★ ☆",
       "definition": [
