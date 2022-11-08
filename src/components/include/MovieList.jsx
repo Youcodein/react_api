@@ -1,13 +1,38 @@
 import React from "react";
 
-const MovieList = () => {
+function MovieHot(props) {
   return (
-    <div className="movie__list">
+    <li>
+      <a href={`https://www.themoviedb.org/movie/${props.movie.id}`}>
+        <span className="rank">{props.rank + 1}</span>
+        <img
+          src={`https://image.tmdb.org/t/p/w500/${props.movie.poster_path}`}
+          alt={props.movie.title}
+        />
+        <em>
+          <span className="title">{props.movie.title}</span>
+          {/* <span className="star">{props.movie.vote_average}</span> */}
+        </em>
+      </a>
+    </li>
+  );
+}
+
+const MovieList = (props) => {
+  return (
+    <section className="cont__movie">
       <div className="container">
-        <h2>Best</h2>
-        <div className="movie__hot"></div>
+        <div className="movie__inner">
+          <ul>
+            {props.lists.map((movies, index) =>
+              index < 4 ? (
+                <MovieHot key={index} rank={index} movie={movies} />
+              ) : null
+            )}
+          </ul>
+        </div>
       </div>
-    </div>
+    </section>
   );
 };
 

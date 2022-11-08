@@ -73,3 +73,18 @@
     z-index: 1000;
   }
 }
+
+// movie List
+
+.movie__inner {
+  ul {
+    li {
+      a {
+        text-align: center;
+      }
+      span {
+        font-size: 20px;
+      }
+    }
+  }
+}
