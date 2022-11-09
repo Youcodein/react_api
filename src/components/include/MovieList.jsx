@@ -1,5 +1,11 @@
 import React from "react";
 
+import { Swiper, SwiperSlide } from "swiper/react";
+import "swiper/css";
+import "swiper/css/pagination";
+import "swiper/css/effect-coverflow";
+import { EffectCoverflow, Pagination } from "swiper";
+
 function MovieHot(props) {
   return (
     <li>
@@ -24,11 +30,30 @@ const MovieList = (props) => {
       <div className="container">
         <div className="movie__inner">
           <ul>
+          <Swiper
+              effect={"coverflow"}
+              grabCursor={true}
+              centeredSlides={true}
+              slidesPerView={"auto"}
+              coverflowEffect={{
+                rotate: 50,
+                stretch: 0,
+                depth: 100,
+                modifier: 1,
+                slideShadows: true,
+              }}
+              pagination={true}
+              modules={[EffectCoverflow, Pagination]}
+              className="mySwiper"
+            >
             {props.lists.map((movies, index) =>
-              index < 4 ? (
+              index < 10 ? (
+                <SwiperSlide key={index}>
                 <MovieHot key={index} rank={index} movie={movies} />
+                </SwiperSlide>
               ) : null
             )}
+            </Swiper>
           </ul>
         </div>
       </div>
