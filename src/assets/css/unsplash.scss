@@ -1,0 +1,26 @@
+.cont__unsplash {
+    ul{
+        column-count: 4 ;
+        column-gap: 20px;
+        width: 100%;
+
+        li {
+            margin-bottom: 20px;
+        }
+        img {
+            border-radius: 5px;
+        }
+    }
+}
+
+// slider
+
+.cont__unsplash__slider{
+    .unsplash__inner__slider{
+        ul{
+            li{
+                width: 300px;
+            }
+        }
+    }
+}
